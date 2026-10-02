@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" width="100%" alt="Your Pal Kal — hardware hacker, RF researcher, ESP32 enjoyer"/>
+<img src="./assets/banner.svg" width="100%" alt="Your Pal Kal — hardware hacker, maker propagandist, ESP32 enjoyer"/>
 
 <a href="https://valleytechsolutions.tech"><img src="https://img.shields.io/badge/SHOP-valleytechsolutions.tech-39ff14?style=for-the-badge&labelColor=050805&logo=shopify&logoColor=39ff14"/></a>
 <a href="https://youtube.com/@valleytechsolutions"><img src="https://img.shields.io/badge/YouTube-@valleytechsolutions-ff2a3d?style=for-the-badge&labelColor=050805&logo=youtube&logoColor=ff2a3d"/></a>
@@ -11,17 +11,49 @@
 
 </div>
 
+<p align="center">
+<a href="#bwm-guide"><img src="https://img.shields.io/badge/%E2%98%85_BWM_TECHNICAL_REFERENCE_GUIDE-39ff14?style=for-the-badge"/></a>
+<a href="#arsenal"><img src="https://img.shields.io/badge/ARSENAL-0a120b?style=for-the-badge&labelColor=0a120b"/></a>
+<a href="#toolchain"><img src="https://img.shields.io/badge/TOOLCHAIN-0a120b?style=for-the-badge"/></a>
+<a href="#youtube"><img src="https://img.shields.io/badge/YOUTUBE-0a120b?style=for-the-badge"/></a>
+<a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-0a120b?style=for-the-badge"/></a>
+</p>
+
+<a name="bwm-guide"></a>
+
+## `> ./black-wire-guide --launch`
+
+<div align="center">
+
+<a href="https://valleytech-black-wire-guide.pages.dev/"><img src="https://github.com/valleytechsolutions/BWM-Technical-Reference-Guide/raw/main/docs/screenshots/inland-reference.png" width="100%" alt="The Black Wire Maker's Technical Reference Guide"/></a>
+
+### The Black Wire Maker's Technical Reference Guide
+
+Board pinouts, manufacturer source files and power data for **ESP32, Arduino, Raspberry Pi, RP2040/RP2350**, displays, sensors and maker modules.<br/>
+Every reference keeps its source, revision and review status, and the whole library works offline.
+
+<a href="https://valleytech-black-wire-guide.pages.dev/"><img src="https://img.shields.io/badge/%E2%96%B6_OPEN_THE_WEB_APP-39ff14?style=for-the-badge"/></a>
+<a href="https://valleytech-black-wire-guide.pages.dev/wiki/"><img src="https://img.shields.io/badge/READ_THE_WIKI-00e5ff?style=for-the-badge"/></a>
+<a href="https://github.com/valleytechsolutions/BWM-Technical-Reference-Guide/releases/latest"><img src="https://img.shields.io/github/v/release/valleytechsolutions/BWM-Technical-Reference-Guide?style=for-the-badge&label=DOWNLOAD&labelColor=050805&color=ffb000"/></a>
+<a href="https://github.com/valleytechsolutions/black-wire-pinouts"><img src="https://img.shields.io/badge/PINOUT_COLLECTION-ff2a3d?style=for-the-badge"/></a>
+
+<sub>Makers · Educators · Students · Hobbyists · Engineers — <a href="https://github.com/valleytechsolutions/BWM-Technical-Reference-Guide">source on GitHub</a></sub>
+
+</div>
+
 ```ini
 [whoami]
 handle      = "Your Pal Kal"
 role        = "Professional Pal"
 base        = "Northern Virginia"
-runs        = ["Valleytech Custom Solutions", "Carbon Computers"]
+runs        = "Valleytech Custom Solutions"
 crew        = "Black Wire Militia"
 specialty   = ["ESP32 everything", "RF research", "offensive security hardware", "IoT pentesting"]
 currently   = "designing boards, flashing firmware, filming the whole thing"
 contact     = "collab@yourpalkal.com"
 ```
+
+<a name="arsenal"></a>
 
 ## `> ls ./arsenal`
 
@@ -31,8 +63,9 @@ contact     = "collab@yourpalkal.com"
 | 🧩 | **[PALPack](https://github.com/valleytechsolutions/PALPack)** | GPIO / RF expansion board for the Cardputer ADV — XIAO ESP32-C5 + GPS |
 | 🐦‍⬛ | **[Flock-Noir](https://github.com/valleytechsolutions/Flock-Noir)** | IR Flock camera detector + wardriver with GPS logging |
 | 🚨 | **[Skid-Detector](https://github.com/valleytechsolutions/Skid-Detector)** | Blue-team nightlight — ESP32 mood light that snitches on network skids |
-| 📖 | **[BWM Technical Reference Guide](https://github.com/valleytechsolutions/BWM-Technical-Reference-Guide)** | Hardware reference tool for microcontrollers |
 | 📌 | **[black-wire-pinouts](https://github.com/valleytechsolutions/black-wire-pinouts)** | Pinout database for ESP32, Arduino and Raspberry Pi |
+
+<a name="toolchain"></a>
 
 ## `> cat ./toolchain`
 
@@ -52,6 +85,8 @@ contact     = "collab@yourpalkal.com"
 <img src="https://img.shields.io/badge/JLCPCB-050805?style=flat-square&logo=circuitverse&logoColor=39ff14"/>
 </p>
 
+<a name="youtube"></a>
+
 ## `> tail -f ./youtube.log`
 
 <!-- YOUTUBE:START -->- 📼 [Raspberry Pi Pico 2 W HDMI Project #raspberrypi](https://www.youtube.com/shorts/5vk1fADX3x4) <sub>`2026-10-02`</sub>
@@ -62,6 +97,8 @@ contact     = "collab@yourpalkal.com"
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
+
+<a name="telemetry"></a>
 
 ## `> ./telemetry --live`
 
