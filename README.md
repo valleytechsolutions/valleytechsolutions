@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<a href="https://valleytech-black-wire-guide.pages.dev/"><img src="https://github.com/valleytechsolutions/BWM-Technical-Reference-Guide/raw/main/docs/screenshots/inland-reference.png" width="100%" alt="The Black Wire Maker's Technical Reference Guide"/></a>
+<a href="https://valleytech-black-wire-guide.pages.dev/" title="Open the Black Wire Maker's Technical Reference Guide"><img src="./assets/bwm-logo.png" width="220" alt="Open the Black Wire Maker's Technical Reference Guide"/></a>
 
 ### The Black Wire Maker's Technical Reference Guide
 
