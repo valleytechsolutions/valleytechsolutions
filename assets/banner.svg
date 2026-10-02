@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#0f2a16" stroke-width="1"/>
+    </pattern>
+    <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+      <rect width="4" height="2" fill="#000" opacity="0.35"/>
+    </pattern>
+    <radialGradient id="vig" cx="50%" cy="50%" r="70%">
+      <stop offset="55%" stop-color="#000" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#000" stop-opacity="0.85"/>
+    </radialGradient>
+    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace; }
+      .title { font-size: 76px; font-weight: 800; letter-spacing: 6px; }
+      .trace { fill: none; stroke: #39ff14; stroke-width: 2; stroke-linecap: round; stroke-dasharray: 14 420; animation: run 4s linear infinite; opacity: .85; }
+      .trace.r { stroke: #ff2a3d; animation-duration: 5.5s; }
+      .trace.d1 { animation-delay: -1.2s; } .trace.d2 { animation-delay: -2.6s; } .trace.d3 { animation-delay: -3.4s; }
+      .base { fill: none; stroke: #133d1d; stroke-width: 2; }
+      .pad { fill: #0a0a0a; stroke: #1f6b2e; stroke-width: 2; }
+      @keyframes run { from { stroke-dashoffset: 434; } to { stroke-dashoffset: 0; } }
+      .gR { animation: gr 3s steps(1) infinite; } .gC { animation: gc 3s steps(1) infinite; }
+      @keyframes gr { 0%,88%,100% { transform: translate(0,0); opacity:0 } 90% { transform: translate(-6px,2px); opacity:.9 } 93% { transform: translate(5px,-2px); opacity:.9 } 96% { transform: translate(-2px,0); opacity:.6 } }
+      @keyframes gc { 0%,88%,100% { transform: translate(0,0); opacity:0 } 90% { transform: translate(6px,-2px); opacity:.9 } 93% { transform: translate(-5px,2px); opacity:.9 } 96% { transform: translate(2px,0); opacity:.6 } }
+      .line { opacity: 0; animation: show 12s steps(1) infinite; }
+      .l1 { animation-delay: 0s; } .l2 { animation-delay: 3s; } .l3 { animation-delay: 6s; } .l4 { animation-delay: 9s; }
+      @keyframes show { 0% { opacity: 1 } 25% { opacity: 0 } 100% { opacity: 0 } }
+      .cursor { animation: blink 1s steps(1) infinite; }
+      @keyframes blink { 50% { opacity: 0 } }
+      .led { animation: blink 1.4s steps(1) infinite; } .led.b { animation-duration: .9s; } .led.c { animation-duration: 2.1s; }
+    </style>
+  </defs>
+
+  <rect width="1200" height="320" fill="#050805"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+
+  <!-- PCB traces: base copper + moving signal pulses -->
+  <g>
+    <path class="base" d="M0 60H140L170 30H330"/>
+    <path class="base" d="M0 270H90L130 230H260L290 260H380"/>
+    <path class="base" d="M1200 50H1060L1030 80H880"/>
+    <path class="base" d="M1200 280H1100L1070 250H930L900 290H820"/>
+    <path class="base" d="M40 0V110L70 140H160"/>
+    <path class="base" d="M1160 320V200L1130 170H1040"/>
+    <path class="trace" d="M0 60H140L170 30H330"/>
+    <path class="trace r d1" d="M0 270H90L130 230H260L290 260H380"/>
+    <path class="trace d2" d="M1200 50H1060L1030 80H880"/>
+    <path class="trace d3" d="M1200 280H1100L1070 250H930L900 290H820"/>
+    <path class="trace r d2" d="M40 0V110L70 140H160"/>
+    <path class="trace d1" d="M1160 320V200L1130 170H1040"/>
+    <circle class="pad" cx="330" cy="30" r="6"/><circle class="pad" cx="380" cy="260" r="6"/>
+    <circle class="pad" cx="880" cy="80" r="6"/><circle class="pad" cx="820" cy="290" r="6"/>
+    <circle class="pad" cx="160" cy="140" r="6"/><circle class="pad" cx="1040" cy="170" r="6"/>
+  </g>
+
+  <!-- status LEDs -->
+  <g transform="translate(1056 22)">
+    <circle class="led" cx="0" cy="0" r="5" fill="#39ff14" filter="url(#glow)"/>
+    <circle class="led b" cx="18" cy="0" r="5" fill="#ff2a3d" filter="url(#glow)"/>
+    <circle class="led c" cx="36" cy="0" r="5" fill="#ffb000" filter="url(#glow)"/>
+    <text x="52" y="5" class="mono" font-size="13" fill="#2f8a3f">TX RX PWR</text>
+  </g>
+
+  <!-- title with RGB-split glitch -->
+  <g text-anchor="middle" class="mono title">
+    <text x="600" y="150" fill="#ff2a3d" class="gR">YOUR PAL KAL</text>
+    <text x="600" y="150" fill="#00e5ff" class="gC">YOUR PAL KAL</text>
+    <text x="600" y="150" fill="#39ff14" filter="url(#glow)">YOUR PAL KAL</text>
+  </g>
+
+  <text x="600" y="190" text-anchor="middle" class="mono" font-size="16" letter-spacing="4" fill="#6bdc7a">
+    HARDWARE HACKER · RF RESEARCHER · ESP32 ENJOYER
+  </text>
+
+  <!-- rotating terminal lines -->
+  <g class="mono" font-size="18" fill="#c8ffd0">
+    <rect x="330" y="222" width="540" height="40" rx="6" fill="#000" stroke="#1f6b2e"/>
+    <text x="348" y="248"><tspan fill="#39ff14">kal@valleytech</tspan><tspan fill="#5a5a5a">:</tspan><tspan fill="#00e5ff">~</tspan><tspan fill="#5a5a5a">$ </tspan></text>
+    <text x="540" y="248" class="line l1">flash --target esp32-s3 marauder.bin<tspan fill="#39ff14" class="cursor">_</tspan></text>
+    <text x="540" y="248" class="line l2">./wardrive --gps --log flock.csv<tspan fill="#39ff14" class="cursor">_</tspan></text>
+    <text x="540" y="248" class="line l3">make pcb &amp;&amp; ship --to jlcpcb<tspan fill="#39ff14" class="cursor">_</tspan></text>
+    <text x="540" y="248" class="line l4">echo "hack the planet" &gt; /dev/yt<tspan fill="#39ff14" class="cursor">_</tspan></text>
+  </g>
+
+  <rect width="1200" height="320" fill="url(#scan)"/>
+  <rect width="1200" height="320" fill="url(#vig)"/>
+  <rect x="1" y="1" width="1198" height="318" rx="10" fill="none" stroke="#1f6b2e" stroke-width="2"/>
+</svg>
