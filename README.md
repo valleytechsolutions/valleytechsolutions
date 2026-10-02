@@ -118,11 +118,7 @@ contact     = "collab@yourpalkal.com"
 
 <div align="center">
 
-```
- ┌──────────────────────────────────────────────────────────────┐
- │  only hack what you own or have permission to. stay legal.   │
- └──────────────────────────────────────────────────────────────┘
-```
+### I Love Your face
 
 <img src="https://komarev.com/ghpvc/?username=valleytechsolutions&style=for-the-badge&color=39ff14&labelColor=050805&label=PROFILE+HITS"/>
 
