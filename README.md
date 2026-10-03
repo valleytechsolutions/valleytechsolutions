@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Raspberry Pi Pico 2 W HDMI Project #raspberrypi](https://www.youtube.com/shorts/5vk1fADX3x4) <sub>`2026-10-02`</sub>
+<!-- YOUTUBE:START -->- 📼 [Reterminal Sticky #seeed #epaper #esp32](https://www.youtube.com/shorts/dyqYaSweLn4) <sub>`2026-10-03`</sub>
+- 📼 [Pocketterm35 GPS Mod #waveshare #raspberrypi #cyberdeck](https://www.youtube.com/shorts/9coz6nQbhuY) <sub>`2026-10-03`</sub>
+- 📼 [Squatchwatch CYD #esp32 #cyd](https://www.youtube.com/shorts/JeAOVMAc3-g) <sub>`2026-10-02`</sub>
+- 📼 [Raspberry Pi Pico 2 W HDMI Project #raspberrypi](https://www.youtube.com/shorts/5vk1fADX3x4) <sub>`2026-10-02`</sub>
 - 📼 [The Monster RF For M5stack Tab5, Core Series, &amp; Cardputer](https://www.youtube.com/watch?v=XKH0O_J4C2w) <sub>`2026-10-02`</sub>
-- 📼 [Biscuit Crumb Video Soon! #biscuitshop #esp32](https://www.youtube.com/shorts/SNtY24pYzCA) <sub>`2026-10-02`</sub>
-- 📼 [Paclock 90A-Pro](https://www.youtube.com/shorts/9IodLBk48kY) <sub>`2026-10-02`</sub>
-- 📼 [m5stack Core Faces #m5stack #esp32](https://www.youtube.com/shorts/Ou0c0j_aCaw) <sub>`2026-10-01`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
