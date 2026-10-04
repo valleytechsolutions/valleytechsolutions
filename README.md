@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [The Newest Biscuit by BiscuitShop.Us - The Crumb](https://www.youtube.com/watch?v=DY3LKwCnlTo) <sub>`2026-10-04`</sub>
+<!-- YOUTUBE:START -->- 📼 [Circuitmess MakerBand Smartwatch #esp32 #circuitmess](https://www.youtube.com/shorts/d0ospjh6TnE) <sub>`2026-10-04`</sub>
+- 📼 [The Newest Biscuit by BiscuitShop.Us - The Crumb](https://www.youtube.com/watch?v=DY3LKwCnlTo) <sub>`2026-10-04`</sub>
 - 📼 [Marauder V8 VS C5 Wardriver](https://www.youtube.com/shorts/yJ8-Nznyma8) <sub>`2026-10-03`</sub>
 - 📼 [M5stack Paper Mono V.S. Reterminal Sticky #esp32 #seeed #m5stack #esp32](https://www.youtube.com/shorts/aXguuLV4DMs) <sub>`2026-10-03`</sub>
 - 📼 [Reterminal Sticky #seeed #epaper #esp32](https://www.youtube.com/shorts/dyqYaSweLn4) <sub>`2026-10-03`</sub>
-- 📼 [Pocketterm35 GPS Mod #waveshare #raspberrypi #cyberdeck](https://www.youtube.com/shorts/9coz6nQbhuY) <sub>`2026-10-03`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
