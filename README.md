@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Card Converters Back in Stock #m5stack #cardputer](https://www.youtube.com/shorts/ayK0e4FT_vI) <sub>`2026-10-06`</sub>
-- 📼 [Rp2040 USB #raspberrypi](https://www.youtube.com/shorts/UdECgREovJs) <sub>`2026-10-05`</sub>
-- 📼 [Paclock 90A Pro Picked, Fully Disassembled, Reassembled, Then Zipped #PACKLOCK200KCLUB](https://www.youtube.com/watch?v=Q8M5Fzs6BeA) <sub>`2026-10-05`</sub>
-- 📼 [Roller Ball Wireless Mouse](https://www.youtube.com/shorts/g1iy4BN4C-E) <sub>`2026-10-05`</sub>
-- 📼 [The Newest Biscuit by BiscuitShop.Us - The Crumb](https://www.youtube.com/watch?v=DY3LKwCnlTo) <sub>`2026-10-05`</sub>
+<!-- YOUTUBE:START -->- 📼 [M5stack Tab5 MonsterRF Stand](https://www.youtube.com/shorts/ZDb0spi9fcA) <sub>`2026-10-06`</sub>
+- 📼 [Making a Handled Turning Tool](https://www.youtube.com/shorts/EsxvJTuPF2Q) <sub>`2026-10-06`</sub>
+- 📼 [Future Updates With Marauder #esp32 #marauder](https://www.youtube.com/shorts/Cs3HlPT7xjQ) <sub>`2026-10-06`</sub>
+- 📼 [The New Stamp C5 By M5stack](https://www.youtube.com/watch?v=FFufRTpEa5M) <sub>`2026-10-06`</sub>
+- 📼 [Card Converters Back in Stock #m5stack #cardputer](https://www.youtube.com/shorts/ayK0e4FT_vI) <sub>`2026-10-06`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
