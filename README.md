@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Rp2040 USB #raspberrypi](https://www.youtube.com/shorts/UdECgREovJs) <sub>`2026-10-05`</sub>
+<!-- YOUTUBE:START -->- 📼 [Card Converters Back in Stock #m5stack #cardputer](https://www.youtube.com/shorts/ayK0e4FT_vI) <sub>`2026-10-06`</sub>
+- 📼 [Rp2040 USB #raspberrypi](https://www.youtube.com/shorts/UdECgREovJs) <sub>`2026-10-05`</sub>
 - 📼 [Paclock 90A Pro Picked, Fully Disassembled, Reassembled, Then Zipped #PACKLOCK200KCLUB](https://www.youtube.com/watch?v=Q8M5Fzs6BeA) <sub>`2026-10-05`</sub>
 - 📼 [Roller Ball Wireless Mouse](https://www.youtube.com/shorts/g1iy4BN4C-E) <sub>`2026-10-05`</sub>
 - 📼 [The Newest Biscuit by BiscuitShop.Us - The Crumb](https://www.youtube.com/watch?v=DY3LKwCnlTo) <sub>`2026-10-05`</sub>
-- 📼 [New Hackergadgets 21700 Battery NVME Board #uconsole #hackergadgets #raspberrypi](https://www.youtube.com/shorts/bF8opnQ1JVY) <sub>`2026-10-05`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
