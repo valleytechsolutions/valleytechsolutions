@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Covert Companion Reloaded](https://www.youtube.com/shorts/0Gw6tcoPnaY) <sub>`2026-10-07`</sub>
+<!-- YOUTUBE:START -->- 📼 [SquachWatch Firmware For the Cheap Yellow Display](https://www.youtube.com/watch?v=n8Xwh4BJWIM) <sub>`2026-10-07`</sub>
+- 📼 [Covert Companion Reloaded](https://www.youtube.com/shorts/0Gw6tcoPnaY) <sub>`2026-10-07`</sub>
 - 📼 [Bad Idea, but cool looking](https://www.youtube.com/shorts/aBaXK37KamM) <sub>`2026-10-07`</sub>
 - 📼 [M5stack Tab5 MonsterRF Stand](https://www.youtube.com/shorts/ZDb0spi9fcA) <sub>`2026-10-06`</sub>
 - 📼 [Making a Handled Turning Tool](https://www.youtube.com/shorts/EsxvJTuPF2Q) <sub>`2026-10-06`</sub>
-- 📼 [Future Updates With Marauder #esp32 #marauder](https://www.youtube.com/shorts/Cs3HlPT7xjQ) <sub>`2026-10-06`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
