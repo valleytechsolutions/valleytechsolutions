@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [POOM Updates](https://www.youtube.com/shorts/q8kv3BURfUM) <sub>`2026-10-09`</sub>
-- 📼 [2.4in Cheap Yellow Display #esp32](https://www.youtube.com/shorts/yxEsFkODYmM) <sub>`2026-10-09`</sub>
-- 📼 [Marauder V8 &amp; Mini V3 Back In Stock!](https://www.youtube.com/shorts/vVH9Bgw2a48) <sub>`2026-10-08`</sub>
-- 📼 [Privacy &amp; Security: Essential DIY Tech You Need Now](https://www.youtube.com/watch?v=JFCmdiolS_Y) <sub>`2026-10-08`</sub>
-- 📼 [SquachWatch Firmware For the Cheap Yellow Display](https://www.youtube.com/watch?v=n8Xwh4BJWIM) <sub>`2026-10-07`</sub>
+<!-- YOUTUBE:START -->- 📼 [Wide Angle IR Reciever](https://www.youtube.com/shorts/LQ-KmtV_AZ4) <sub>`2026-10-09`</sub>
+- 📼 [biscuit](https://www.youtube.com/shorts/N3uOBVaIuaY) <sub>`2026-10-09`</sub>
+- 📼 [MakerPhone Kickstarter Ends Soon](https://www.youtube.com/shorts/r3thrnwPfuM) <sub>`2026-10-09`</sub>
+- 📼 [Xiao 1.47in IPS Display ESP32-S3 Plus](https://www.youtube.com/watch?v=2iXLf_5kyTY) <sub>`2026-10-09`</sub>
+- 📼 [POOM Updates](https://www.youtube.com/shorts/q8kv3BURfUM) <sub>`2026-10-09`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
