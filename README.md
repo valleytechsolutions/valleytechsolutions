@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Marauder V8 &amp; Mini V3 Back In Stock!](https://www.youtube.com/shorts/vVH9Bgw2a48) <sub>`2026-10-08`</sub>
+<!-- YOUTUBE:START -->- 📼 [POOM Updates](https://www.youtube.com/shorts/q8kv3BURfUM) <sub>`2026-10-09`</sub>
+- 📼 [2.4in Cheap Yellow Display #esp32](https://www.youtube.com/shorts/yxEsFkODYmM) <sub>`2026-10-09`</sub>
+- 📼 [Marauder V8 &amp; Mini V3 Back In Stock!](https://www.youtube.com/shorts/vVH9Bgw2a48) <sub>`2026-10-08`</sub>
 - 📼 [Privacy &amp; Security: Essential DIY Tech You Need Now](https://www.youtube.com/watch?v=JFCmdiolS_Y) <sub>`2026-10-08`</sub>
 - 📼 [SquachWatch Firmware For the Cheap Yellow Display](https://www.youtube.com/watch?v=n8Xwh4BJWIM) <sub>`2026-10-07`</sub>
-- 📼 [Covert Companion Reloaded](https://www.youtube.com/shorts/0Gw6tcoPnaY) <sub>`2026-10-07`</sub>
-- 📼 [Bad Idea, but cool looking](https://www.youtube.com/shorts/aBaXK37KamM) <sub>`2026-10-07`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
