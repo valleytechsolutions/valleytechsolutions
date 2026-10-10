@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Wide Angle IR Reciever](https://www.youtube.com/shorts/LQ-KmtV_AZ4) <sub>`2026-10-09`</sub>
+<!-- YOUTUBE:START -->- 📼 [The Current Prices Of Raspberry Pis](https://www.youtube.com/shorts/t3y41QXjliQ) <sub>`2026-10-10`</sub>
+- 📼 [Practicing With Covert Instruments Crecent Hook](https://www.youtube.com/shorts/16i2iLDU2SU) <sub>`2026-10-10`</sub>
+- 📼 [Wide Angle IR Reciever](https://www.youtube.com/shorts/LQ-KmtV_AZ4) <sub>`2026-10-09`</sub>
 - 📼 [biscuit](https://www.youtube.com/shorts/N3uOBVaIuaY) <sub>`2026-10-09`</sub>
 - 📼 [MakerPhone Kickstarter Ends Soon](https://www.youtube.com/shorts/r3thrnwPfuM) <sub>`2026-10-09`</sub>
-- 📼 [Xiao 1.47in IPS Display ESP32-S3 Plus](https://www.youtube.com/watch?v=2iXLf_5kyTY) <sub>`2026-10-09`</sub>
-- 📼 [POOM Updates](https://www.youtube.com/shorts/q8kv3BURfUM) <sub>`2026-10-09`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
