@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Paying With Evil? #esp32](https://www.youtube.com/shorts/4qWSlI-36aY) <sub>`2026-10-10`</sub>
+<!-- YOUTUBE:START -->- 📼 [Monstatek M1 Multitool Shipping to indiegogo Backers](https://www.youtube.com/shorts/sthjg58Q1KE) <sub>`2026-10-11`</sub>
+- 📼 [super secret project](https://www.youtube.com/shorts/aaoqMSrLJeE) <sub>`2026-10-11`</sub>
+- 📼 [Paying With Evil? #esp32](https://www.youtube.com/shorts/4qWSlI-36aY) <sub>`2026-10-10`</sub>
 - 📼 [The Current Prices Of Raspberry Pis](https://www.youtube.com/shorts/t3y41QXjliQ) <sub>`2026-10-10`</sub>
 - 📼 [Practicing With Covert Instruments Crecent Hook](https://www.youtube.com/shorts/16i2iLDU2SU) <sub>`2026-10-10`</sub>
-- 📼 [Wide Angle IR Reciever](https://www.youtube.com/shorts/LQ-KmtV_AZ4) <sub>`2026-10-09`</sub>
-- 📼 [biscuit](https://www.youtube.com/shorts/N3uOBVaIuaY) <sub>`2026-10-09`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
