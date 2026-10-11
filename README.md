@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Monstatek M1 Multitool Shipping to indiegogo Backers](https://www.youtube.com/shorts/sthjg58Q1KE) <sub>`2026-10-11`</sub>
+<!-- YOUTUBE:START -->- 📼 [C5 Wardriver V2 by Justcallmekoko](https://www.youtube.com/shorts/qeRxv0kFeTI) <sub>`2026-10-11`</sub>
+- 📼 [M5stack Nano H2 #esp32 #m5stack](https://www.youtube.com/shorts/zey_cvTaydo) <sub>`2026-10-11`</sub>
+- 📼 [Monstatek M1 Multitool Shipping to indiegogo Backers](https://www.youtube.com/shorts/sthjg58Q1KE) <sub>`2026-10-11`</sub>
 - 📼 [super secret project](https://www.youtube.com/shorts/aaoqMSrLJeE) <sub>`2026-10-11`</sub>
 - 📼 [Paying With Evil? #esp32](https://www.youtube.com/shorts/4qWSlI-36aY) <sub>`2026-10-10`</sub>
-- 📼 [The Current Prices Of Raspberry Pis](https://www.youtube.com/shorts/t3y41QXjliQ) <sub>`2026-10-10`</sub>
-- 📼 [Practicing With Covert Instruments Crecent Hook](https://www.youtube.com/shorts/16i2iLDU2SU) <sub>`2026-10-10`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
