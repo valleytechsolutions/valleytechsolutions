@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [C5 Wardriver V2 by Justcallmekoko](https://www.youtube.com/shorts/qeRxv0kFeTI) <sub>`2026-10-11`</sub>
+<!-- YOUTUBE:START -->- 📼 [Hacker Gadgets 21700 NVME Upgrade - Uconsole](https://www.youtube.com/watch?v=CbrS9kYkuLQ) <sub>`2026-10-12`</sub>
+- 📼 [Waveshare&#39;s ESP32-C5 Pico #esp32 #waveshare #raspberrypi](https://www.youtube.com/shorts/v0MGH7pQ3hE) <sub>`2026-10-12`</sub>
+- 📼 [C5 Wardriver V2 vs V1 Tests](https://www.youtube.com/shorts/LKd9Vyoh3Jo) <sub>`2026-10-12`</sub>
+- 📼 [C5 Wardriver V2 by Justcallmekoko](https://www.youtube.com/shorts/qeRxv0kFeTI) <sub>`2026-10-11`</sub>
 - 📼 [M5stack Nano H2 #esp32 #m5stack](https://www.youtube.com/shorts/zey_cvTaydo) <sub>`2026-10-11`</sub>
-- 📼 [Monstatek M1 Multitool Shipping to indiegogo Backers](https://www.youtube.com/shorts/sthjg58Q1KE) <sub>`2026-10-11`</sub>
-- 📼 [super secret project](https://www.youtube.com/shorts/aaoqMSrLJeE) <sub>`2026-10-11`</sub>
-- 📼 [Paying With Evil? #esp32](https://www.youtube.com/shorts/4qWSlI-36aY) <sub>`2026-10-10`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
