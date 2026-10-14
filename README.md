@@ -53,12 +53,21 @@ currently   = "designing boards, flashing firmware, filming the whole thing"
 contact     = "collab@yourpalkal.com"
 ```
 
+<a name="dragon-detector"></a>
+
+## `> ./dragon-detector --flash`
+
+**Dragon Detector** — a Dragon Radar-inspired Wi-Fi/BLE detector and custom image badge for **M5Stack StopWatch C152**, **Waveshare AMOLED 1.75C**, and **Spotpear / Guition JC3636W518**. Three radar themes, signature evidence, RSSI foxhunting, family audio alerts and a board-specific Badge Studio.
+
+**[OPEN THE WEB FLASHER + BADGE STUDIO](https://valleytechsolutions.github.io/Dragon-Detector/)** · [Source and supported boards](https://github.com/valleytechsolutions/Dragon-Detector) · [Tested capabilities and limits](https://github.com/valleytechsolutions/Dragon-Detector/blob/main/docs/VALIDATION.md)
+
 <a name="arsenal"></a>
 
 ## `> ls ./arsenal`
 
 | | Project | What it does |
 |:-:|---|---|
+| 🟢 | **[Dragon Detector](https://github.com/valleytechsolutions/Dragon-Detector)** | Pocket signal radar, RSSI foxhunting and custom image badges — **[web flasher](https://valleytechsolutions.github.io/Dragon-Detector/)** |
 | 📡 | **[CardConverter](https://github.com/valleytechsolutions/CardConverter)** | RF hotswap board for the M5Stack Cardputer ADV |
 | 🧩 | **[PALPack](https://github.com/valleytechsolutions/PALPack)** | GPIO / RF expansion board for the Cardputer ADV — XIAO ESP32-C5 + GPS |
 | 🐦‍⬛ | **[Flock-Noir](https://github.com/valleytechsolutions/Flock-Noir)** | IR Flock camera detector + wardriver with GPS logging |
