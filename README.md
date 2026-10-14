@@ -89,11 +89,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [OUI SpY Axe OFF #esp32](https://www.youtube.com/shorts/eTzon2yoCoo) <sub>`2026-10-13`</sub>
-- 📼 [Epaper Hat + by Waveshare](https://www.youtube.com/shorts/bsaA2jh8PZo) <sub>`2026-10-13`</sub>
-- 📼 [Orange Pi Zero 3w Armbian Support](https://www.youtube.com/shorts/C8iXLqhcgsk) <sub>`2026-10-12`</sub>
-- 📼 [Fnisri LCR ST2](https://www.youtube.com/shorts/wkQCh2sniJo) <sub>`2026-10-12`</sub>
-- 📼 [Hacker Gadgets 21700 NVME Upgrade - Uconsole](https://www.youtube.com/watch?v=CbrS9kYkuLQ) <sub>`2026-10-12`</sub>
+<!-- YOUTUBE:START -->- 📼 [Luckfox WebBee #luckfox #waveshare #linux](https://www.youtube.com/shorts/iwwkMYk3408) <sub>`2026-10-14`</sub>
+- 📼 [Covert instruments Reaper Breakout Cards](https://www.youtube.com/shorts/ubFQmjNRtAk) <sub>`2026-10-14`</sub>
+- 📼 [Vulgrco.com Shipment Came In!](https://www.youtube.com/shorts/BRmAyj1Q23A) <sub>`2026-10-14`</sub>
+- 📼 [Stamp P4 by M5stack #esp32 #m5stack](https://www.youtube.com/shorts/Nwq3iDzZdfY) <sub>`2026-10-13`</sub>
+- 📼 [Armbian - Everything You Need To Know](https://www.youtube.com/watch?v=B_UAWK2H4PU) <sub>`2026-10-13`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
