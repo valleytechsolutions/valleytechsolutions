@@ -98,11 +98,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [M5stack&#39;s New Web Burner - Web Burner](https://www.youtube.com/watch?v=9LCTo3eoZiU) <sub>`2026-10-14`</sub>
+<!-- YOUTUBE:START -->- 📼 [Stopwatch Foxhunt](https://www.youtube.com/shorts/AVbQR3BqYYw) <sub>`2026-10-14`</sub>
+- 📼 [Dragon Ball Z DragonBall Radar Counter surveillance Project #esp32](https://www.youtube.com/shorts/6DYLbRRBT4E) <sub>`2026-10-14`</sub>
+- 📼 [M5stack&#39;s New Web Burner - Web Burner](https://www.youtube.com/watch?v=9LCTo3eoZiU) <sub>`2026-10-14`</sub>
 - 📼 [Luckfox WebBee #luckfox #waveshare #linux](https://www.youtube.com/shorts/iwwkMYk3408) <sub>`2026-10-14`</sub>
 - 📼 [Covert instruments Reaper Breakout Cards](https://www.youtube.com/shorts/ubFQmjNRtAk) <sub>`2026-10-14`</sub>
-- 📼 [Vulgrco.com Shipment Came In!](https://www.youtube.com/shorts/BRmAyj1Q23A) <sub>`2026-10-14`</sub>
-- 📼 [Stamp P4 by M5stack #esp32 #m5stack](https://www.youtube.com/shorts/Nwq3iDzZdfY) <sub>`2026-10-13`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
