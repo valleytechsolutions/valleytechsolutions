@@ -98,11 +98,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Makerphone 2.0 turned Hackerphone #circuitmess #esp32](https://www.youtube.com/shorts/2SBPT75mL6Q) <sub>`2026-10-15`</sub>
+<!-- YOUTUBE:START -->- 📼 [Axon Body Camera Detection...To my surprise](https://www.youtube.com/shorts/IuFoL41fHHg) <sub>`2026-10-15`</sub>
+- 📼 [DualBand Wardriver V2 By Justcallmekoko](https://www.youtube.com/watch?v=oyG_LW6R7aQ) <sub>`2026-10-15`</sub>
+- 📼 [Makerphone 2.0 turned Hackerphone #circuitmess #esp32](https://www.youtube.com/shorts/2SBPT75mL6Q) <sub>`2026-10-15`</sub>
 - 📼 [Covert instruments Reaper Breakout](https://www.youtube.com/shorts/OxBrQJHtbuw) <sub>`2026-10-15`</sub>
 - 📼 [Covert Instruments Reaper Breakout Card](https://www.youtube.com/watch?v=tTY4pxJ8AF8) <sub>`2026-10-15`</sub>
-- 📼 [DualBand Wardriver V2 Releases Tomorrow at 12pm Eastern](https://www.youtube.com/shorts/b3Axh8XDpsc) <sub>`2026-10-14`</sub>
-- 📼 [Stopwatch Foxhunt](https://www.youtube.com/shorts/AVbQR3BqYYw) <sub>`2026-10-14`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
