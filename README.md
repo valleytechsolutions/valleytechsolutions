@@ -98,11 +98,11 @@ contact     = "collab@yourpalkal.com"
 
 ## `> tail -f ./youtube.log`
 
-<!-- YOUTUBE:START -->- 📼 [Stopwatch Foxhunt](https://www.youtube.com/shorts/AVbQR3BqYYw) <sub>`2026-10-14`</sub>
-- 📼 [Dragon Ball Z DragonBall Radar Counter surveillance Project #esp32](https://www.youtube.com/shorts/6DYLbRRBT4E) <sub>`2026-10-14`</sub>
-- 📼 [M5stack&#39;s New Web Burner - Web Burner](https://www.youtube.com/watch?v=9LCTo3eoZiU) <sub>`2026-10-14`</sub>
-- 📼 [Luckfox WebBee #luckfox #waveshare #linux](https://www.youtube.com/shorts/iwwkMYk3408) <sub>`2026-10-14`</sub>
-- 📼 [Covert instruments Reaper Breakout Cards](https://www.youtube.com/shorts/ubFQmjNRtAk) <sub>`2026-10-14`</sub>
+<!-- YOUTUBE:START -->- 📼 [Makerphone 2.0 turned Hackerphone #circuitmess #esp32](https://www.youtube.com/shorts/2SBPT75mL6Q) <sub>`2026-10-15`</sub>
+- 📼 [Covert instruments Reaper Breakout](https://www.youtube.com/shorts/OxBrQJHtbuw) <sub>`2026-10-15`</sub>
+- 📼 [Covert Instruments Reaper Breakout Card](https://www.youtube.com/watch?v=tTY4pxJ8AF8) <sub>`2026-10-15`</sub>
+- 📼 [DualBand Wardriver V2 Releases Tomorrow at 12pm Eastern](https://www.youtube.com/shorts/b3Axh8XDpsc) <sub>`2026-10-14`</sub>
+- 📼 [Stopwatch Foxhunt](https://www.youtube.com/shorts/AVbQR3BqYYw) <sub>`2026-10-14`</sub>
 <!-- YOUTUBE:END -->
 
 ➜ [**More on the channel**](https://youtube.com/@valleytechsolutions)
