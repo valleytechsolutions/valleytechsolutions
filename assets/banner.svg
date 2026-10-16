@@ -1,4 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+  <title>Your Pal Kal — Valleytech Solutions</title>
+  <desc>Animated circuit traces around the Valleytech and Black Wire logos.</desc>
   <defs>
     <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
       <path d="M24 0H0V24" fill="none" stroke="#0f2a16" stroke-width="1"/>
@@ -32,6 +34,7 @@
       .cursor { animation: blink 1s steps(1) infinite; }
       @keyframes blink { 50% { opacity: 0 } }
       .led { animation: blink 1.4s steps(1) infinite; } .led.b { animation-duration: .9s; } .led.c { animation-duration: 2.1s; }
+      @media (prefers-reduced-motion: reduce) { .trace,.gR,.gC,.line,.cursor,.led { animation: none; } .gR,.gC,.line { opacity: 0; } .l1 { opacity: 1; } }
     </style>
   </defs>
 

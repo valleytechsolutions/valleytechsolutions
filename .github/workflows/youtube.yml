@@ -8,16 +8,27 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: profile-youtube
+  cancel-in-progress: false
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
+    timeout-minutes: 5
     steps:
-      - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          comment_tag_name: YOUTUBE
-          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCTEwUEqrf_OQ0lV4rbO_Beg"
-          max_post_count: 5
-          template: '- 📼 [$title]($url) <sub>`$date`</sub>$newline'
-          date_format: yyyy-mm-dd
-          commit_message: "chore: refresh latest uploads"
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+      - name: Test feed parsing and outage recovery
+        run: python3 -m unittest discover -s tests
+      - name: Refresh uploads with retries and last-good fallback
+        run: python3 scripts/update_youtube.py
+      - name: Commit verified profile data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md assets/youtube.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh latest uploads'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
