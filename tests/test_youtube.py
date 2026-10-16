@@ -1,4 +1,5 @@
 import datetime as dt
+from contextlib import redirect_stdout
 import importlib.util
 import io
 from pathlib import Path
@@ -70,8 +71,10 @@ class FeedTests(unittest.TestCase):
             cache = json.dumps({"checked": dt.datetime.now(dt.timezone.utc).isoformat(), "entries": [1]})
             (root / "README.md").write_text(original, encoding="utf-8")
             (root / "assets/youtube.json").write_text(cache, encoding="utf-8")
-            with patch.object(updater, "ROOT", root), patch.object(updater, "fetch_feed", side_effect=RuntimeError()), patch.object(updater, "summary"):
+            # A simulated outage must not create a real GitHub Actions warning.
+            with redirect_stdout(io.StringIO()) as output, patch.object(updater, "ROOT", root), patch.object(updater, "fetch_feed", side_effect=RuntimeError()), patch.object(updater, "summary"):
                 updater.main()
+            self.assertIn("Temporary YouTube feed outage", output.getvalue())
             self.assertEqual((root / "README.md").read_text(encoding="utf-8"), original)
             self.assertEqual((root / "assets/youtube.json").read_text(encoding="utf-8"), cache)
 
