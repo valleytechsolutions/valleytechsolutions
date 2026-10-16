@@ -7,7 +7,7 @@
 <a href="https://tiktok.com/@valleytechsolutions"><img src="https://img.shields.io/badge/TikTok-@valleytechsolutions-00e5ff?style=for-the-badge&labelColor=050805&logo=tiktok&logoColor=00e5ff" alt="TikTok"/></a>
 <a href="https://instagram.com/valleytechsolutions"><img src="https://img.shields.io/badge/Instagram-@valleytechsolutions-39ff14?style=for-the-badge&labelColor=050805&logo=instagram&logoColor=39ff14" alt="Instagram"/></a>
 <a href="https://patreon.com/valleytechsolutions"><img src="https://img.shields.io/badge/Patreon-support_the_lab-ffb000?style=for-the-badge&labelColor=050805&logo=patreon&logoColor=ffb000" alt="Patreon"/></a>
-<a href="https://discord.gg/blackwiremilitia"><img src="https://img.shields.io/badge/Discord-Black_Wire_Militia-ff2a3d?style=for-the-badge&labelColor=050805&logo=discord&logoColor=ff2a3d" alt="Discord"/></a>
+<a href="https://discord.gg/Uk7tmwrv7j"><img src="https://img.shields.io/badge/Discord-Black_Wire_Militia-ff2a3d?style=for-the-badge&labelColor=050805&logo=discord&logoColor=ff2a3d" alt="Discord"/></a>
 
 </div>
 
@@ -146,7 +146,7 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 If something here helped you build, learn or fix something, that is the point.
 
-[Support the lab on Patreon](https://www.patreon.com/valleytechsolutions) · [Join Black Wire Militia](https://discord.gg/blackwiremilitia) · [Visit the shop](https://valleytechsolutions.tech)
+[Support the lab on Patreon](https://www.patreon.com/valleytechsolutions) · [Join Black Wire Militia](https://discord.gg/Uk7tmwrv7j) · [Visit the shop](https://valleytechsolutions.tech)
 
 **— your pal kal**
 
