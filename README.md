@@ -11,16 +11,14 @@
 
 </div>
 
-<p align="center"><a href="https://valleytech-profile.pages.dev/">Profile & working flasher links</a> · GitHub public pages are temporarily unavailable; the projects and original artwork are retained.</p>
-
 <p align="center"><b>Build it. Understand it. Share what you learn.</b><br/>Boards, firmware and practical references from Your Pal Kal.</p>
 
 <p align="center">
-<a href="#bwm-guide"><img src="https://img.shields.io/badge/%E2%98%85_BWM_TECHNICAL_REFERENCE_GUIDE-39ff14?style=for-the-badge" alt="★ BWM TECHNICAL REFERENCE GUIDE"/></a>
-<a href="#arsenal"><img src="https://img.shields.io/badge/ARSENAL-0a120b?style=for-the-badge&labelColor=0a120b" alt="ARSENAL"/></a>
-<a href="#toolchain"><img src="https://img.shields.io/badge/TOOLCHAIN-0a120b?style=for-the-badge" alt="TOOLCHAIN"/></a>
-<a href="#youtube"><img src="https://img.shields.io/badge/YOUTUBE-0a120b?style=for-the-badge" alt="YOUTUBE"/></a>
-<a href="#telemetry"><img src="https://img.shields.io/badge/TELEMETRY-0a120b?style=for-the-badge" alt="TELEMETRY"/></a>
+<a href="#user-content-bwm-guide"><img src="https://img.shields.io/badge/%E2%98%85_BWM_TECHNICAL_REFERENCE_GUIDE-39ff14?style=for-the-badge" alt="★ BWM TECHNICAL REFERENCE GUIDE"/></a>
+<a href="#user-content-arsenal"><img src="https://img.shields.io/badge/ARSENAL-0a120b?style=for-the-badge&labelColor=0a120b" alt="ARSENAL"/></a>
+<a href="#user-content-toolchain"><img src="https://img.shields.io/badge/TOOLCHAIN-0a120b?style=for-the-badge" alt="TOOLCHAIN"/></a>
+<a href="#user-content-youtube"><img src="https://img.shields.io/badge/YOUTUBE-0a120b?style=for-the-badge" alt="YOUTUBE"/></a>
+<a href="#user-content-telemetry"><img src="https://img.shields.io/badge/TELEMETRY-0a120b?style=for-the-badge" alt="TELEMETRY"/></a>
 </p>
 
 <a name="bwm-guide"></a>
@@ -131,8 +129,7 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <div align="center">
 
-<img alt="Public GitHub project activity" height="165" src="https://github-readme-stats.vercel.app/api?username=valleytechsolutions&show_icons=true&hide_border=true&bg_color=050805&title_color=39ff14&icon_color=ff2a3d&text_color=c8ffd0&ring_color=39ff14&count_private=true"/>
-<img alt="Languages used in public repositories" height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valleytechsolutions&layout=compact&hide_border=true&bg_color=050805&title_color=39ff14&text_color=c8ffd0&langs_count=6"/>
+<a href="https://github.com/valleytechsolutions?tab=repositories">Public GitHub project activity and repository languages</a>
 
 <img alt="GitHub contribution streak" height="165" src="https://streak-stats.demolab.com?user=valleytechsolutions&hide_border=true&background=050805&ring=39ff14&fire=ff2a3d&currStreakNum=39ff14&sideNums=c8ffd0&currStreakLabel=39ff14&sideLabels=6bdc7a&dates=5a5a5a&stroke=1f6b2e"/>
 
