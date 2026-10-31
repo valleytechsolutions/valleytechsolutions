@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=IuFoL41fHHg">Axon Body Camera Detection...To my surprise</a> <sub>2026-10-15</sub></li>
-<li><a href="https://www.youtube.com/watch?v=oyG_LW6R7aQ">DualBand Wardriver V2 By Justcallmekoko</a> <sub>2026-10-15</sub></li>
-<li><a href="https://www.youtube.com/watch?v=2SBPT75mL6Q">Makerphone 2.0 turned Hackerphone #circuitmess #esp32</a> <sub>2026-10-15</sub></li>
-<li><a href="https://www.youtube.com/watch?v=OxBrQJHtbuw">Covert instruments Reaper Breakout</a> <sub>2026-10-15</sub></li>
-<li><a href="https://www.youtube.com/watch?v=tTY4pxJ8AF8">Covert Instruments Reaper Breakout Card</a> <sub>2026-10-15</sub></li>
+<li><a href="https://www.youtube.com/watch?v=fjGQLzZsByA">My M1 Multitool by Monstatek Arrived DOA #flipperzero #monstatek #m1multitool</a> <sub>2026-10-31</sub></li>
+<li><a href="https://www.youtube.com/watch?v=2vms5qeE9UA">Hackergadgets Mini RTL-SDR Dongle #wardriving #rtlsdr</a> <sub>2026-10-31</sub></li>
+<li><a href="https://www.youtube.com/watch?v=WJdiZgdeyaQ">Marauder Drone Updates #esp32</a> <sub>2026-10-31</sub></li>
+<li><a href="https://www.youtube.com/watch?v=1xVQfTMeWiE">Cerberus Development Board #esp32 #cerberus</a> <sub>2026-10-31</sub></li>
+<li><a href="https://www.youtube.com/watch?v=YFlxZtznmjs">Dragon Detector ALPR Detection</a> <sub>2026-10-30</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

@@ -20,10 +20,14 @@ NS = {"a": "http://www.w3.org/2005/Atom", "yt": "http://www.youtube.com/xml/sche
 
 def parse_feed(data):
     root = ET.fromstring(data)
-    if root.findtext("yt:channelId", namespaces=NS) != CHANNEL:
+    # YouTube uses the UC-less ID at feed level, but the full ID in entries.
+    if root.findtext("yt:channelId", namespaces=NS) not in (CHANNEL, CHANNEL[2:]):
         raise ValueError("YouTube feed does not identify the configured channel")
     entries = []
     for entry in root.findall("a:entry", NS):
+        channel = entry.findtext("yt:channelId", namespaces=NS)
+        if channel is not None and channel not in (CHANNEL, CHANNEL[2:]):
+            raise ValueError("YouTube entry belongs to a different channel")
         video = entry.findtext("yt:videoId", namespaces=NS)
         title = entry.findtext("a:title", namespaces=NS)
         published = entry.findtext("a:published", namespaces=NS)
@@ -43,7 +47,8 @@ def replace_block(readme, entries):
     for entry in entries:
         title = html.escape(entry["title"], quote=True)
         rows.append(f'<li><a href="https://www.youtube.com/watch?v={entry["id"]}">{title}</a> <sub>{entry["published"][:10]}</sub></li>')
-    content = "\n<ul>\n" + "\n".join(rows) + "\n</ul>\n"
+    newline = "\r\n" if "\r\n" in readme else "\n"
+    content = newline + "<ul>" + newline + newline.join(rows) + newline + "</ul>" + newline
     return readme[:readme.index(START) + len(START)] + content + readme[readme.index(END):]
 
 
@@ -83,7 +88,7 @@ def summary(text):
 
 def main():
     readme_path, cache_path = ROOT / "README.md", ROOT / "assets/youtube.json"
-    original = readme_path.read_text(encoding="utf-8")
+    original = readme_path.read_bytes().decode("utf-8")
     # Check structure before requesting data. Configuration errors must fail.
     replace_block(original, [])
     now = dt.datetime.now(dt.timezone.utc)
@@ -98,7 +103,7 @@ def main():
         summary("YouTube feed has no successful check in the last 72 hours. Existing videos remain unchanged. Check the channel feed and rerun this workflow.")
         raise
     updated = replace_block(original, entries)
-    readme_path.write_text(updated, encoding="utf-8")
+    readme_path.write_bytes(updated.encode("utf-8"))
     cache_path.write_text(json.dumps({"channel": CHANNEL, "checked": now.isoformat(), "entries": entries}, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     summary(f"Verified the channel feed and refreshed {len(entries)} uploads. This workflow only updates the GitHub profile; it does not publish videos.")
 

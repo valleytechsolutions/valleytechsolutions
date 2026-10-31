@@ -25,6 +25,26 @@ class FeedTests(unittest.TestCase):
         self.assertNotIn("<script>", result)
         self.assertIn("2026-10-15", result)
 
+    def test_live_youtube_channel_id_format(self):
+        feed = FEED.replace(
+            f"<yt:channelId>{updater.CHANNEL}</yt:channelId>".encode(),
+            f"<yt:channelId>{updater.CHANNEL[2:]}</yt:channelId>".encode(),
+            1,
+        ).replace(b"<entry>", f"<entry><yt:channelId>{updater.CHANNEL}</yt:channelId>".encode())
+        self.assertEqual(updater.parse_feed(feed)[0]["id"], "abcdefghijk")
+
+    def test_entry_from_wrong_channel_rejected(self):
+        feed = FEED.replace(b"<entry>", b"<entry><yt:channelId>UCother</yt:channelId>")
+        with self.assertRaises(ValueError):
+            updater.parse_feed(feed)
+
+    def test_crlf_and_unrelated_content_preserved(self):
+        old = "KEEP\r\n" + updater.START + "\r\nold\r\n" + updater.END + "\r\nALSO KEEP"
+        result = updater.replace_block(old, updater.parse_feed(FEED))
+        self.assertTrue(result.startswith("KEEP\r\n" + updater.START + "\r\n"))
+        self.assertTrue(result.endswith(updater.END + "\r\nALSO KEEP"))
+        self.assertNotIn("\n", result.replace("\r\n", ""))
+
     def test_transient_404_retries(self):
         calls, waits = [], []
         def opener(*args, **kwargs):

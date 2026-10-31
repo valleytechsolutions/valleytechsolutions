@@ -4,9 +4,9 @@ The README keeps the animated Valleytech / Black Wire banner, guide preview, pro
 
 ## YouTube updates
 
-`Latest YouTube uploads` runs every six hours and can be started manually from Actions. It reads the public channel feed; it does not upload or publish videos.
+`Latest YouTube uploads` runs every six hours at minute 17 and can be started manually from Actions. Changes to its workflow, updater or tests also run it; generated README/cache commits do not retrigger it. It reads the public channel feed; it does not upload or publish videos.
 
-YouTube intermittently returns HTTP 404 for a working channel feed. The old workflow had no retries and reported these brief outages as failures. The replacement uses four bounded attempts, validates the channel and video identifiers, escapes titles and changes only the marked video block. The first link is now on a separate line from its marker, fixing the raw Markdown that previously appeared on the profile.
+YouTube intermittently returns HTTP 404 for a working channel feed. The old workflow had no retries and reported these brief outages as failures. YouTube also emits a UC-less channel ID at feed level and the full UC-prefixed ID in video entries. Both exact forms of our configured channel are accepted; other channels are rejected. The updater uses four bounded attempts, validates the channel and video identifiers, escapes titles and changes only the marked video block. The first link is now on a separate line from its marker, fixing the raw Markdown that previously appeared on the profile.
 
 If the feed is unavailable, the last good list stays in place. Runs within 72 hours of the last successful check finish with a warning and a step summary. If the outage lasts longer, the job fails so persistent problems still get attention. No notification preferences are disabled. `assets/youtube.json` records the public feed's last successful check and entries.
 
