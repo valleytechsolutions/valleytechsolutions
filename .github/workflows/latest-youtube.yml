@@ -6,7 +6,7 @@ on:
   push:
     branches: [main]
     paths:
-      - .github/workflows/youtube.yml
+      - .github/workflows/latest-youtube.yml
       - scripts/update_youtube.py
       - tests/test_youtube.py
   workflow_dispatch:
