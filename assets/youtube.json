@@ -1,7 +1,22 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-01T22:00:14.196342+00:00",
+  "checked": "2026-11-02T15:47:48.473068+00:00",
   "entries": [
+    {
+      "id": "Pnz6P1PMSM4",
+      "title": "Cerberus Development Board - 463n7.io",
+      "published": "2026-11-02T15:30:07+00:00"
+    },
+    {
+      "id": "yXZWkQj5Hkg",
+      "title": "Cerberus Dev Board Updates #esp32",
+      "published": "2026-11-02T11:00:14+00:00"
+    },
+    {
+      "id": "2bZLivfWxII",
+      "title": "BFFB 2 Returns #flipperzero #esp32",
+      "published": "2026-11-02T05:00:08+00:00"
+    },
     {
       "id": "Whskx3KFdBg",
       "title": "LORA Wardriving #LORA #wardriving #esp32 #heltec",
@@ -11,21 +26,6 @@
       "id": "lMwkAli1Hxo",
       "title": "Changes on the Heltec Lora 32 V4 Expansion V2 #lora #esp32",
       "published": "2026-11-01T17:00:03+00:00"
-    },
-    {
-      "id": "t0RikGClomM",
-      "title": "Biscuit Portapack H4m ADSB Node #biscuitpro #wardriving #adsb",
-      "published": "2026-11-01T11:00:11+00:00"
-    },
-    {
-      "id": "hxnMnTxypZo",
-      "title": "Waveshare 1.73in Square C5 Dev Board [Non-Touch] #esp32",
-      "published": "2026-11-01T04:18:10+00:00"
-    },
-    {
-      "id": "7muHkHEAKFM",
-      "title": "Monstatek M1 Multitool Kickstarter Finally Here!",
-      "published": "2026-10-31T22:02:32+00:00"
     }
   ]
 }

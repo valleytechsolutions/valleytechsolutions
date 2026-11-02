@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=Pnz6P1PMSM4">Cerberus Development Board - 463n7.io</a> <sub>2026-11-02</sub></li>
+<li><a href="https://www.youtube.com/watch?v=yXZWkQj5Hkg">Cerberus Dev Board Updates #esp32</a> <sub>2026-11-02</sub></li>
+<li><a href="https://www.youtube.com/watch?v=2bZLivfWxII">BFFB 2 Returns #flipperzero #esp32</a> <sub>2026-11-02</sub></li>
 <li><a href="https://www.youtube.com/watch?v=Whskx3KFdBg">LORA Wardriving #LORA #wardriving #esp32 #heltec</a> <sub>2026-11-01</sub></li>
 <li><a href="https://www.youtube.com/watch?v=lMwkAli1Hxo">Changes on the Heltec Lora 32 V4 Expansion V2 #lora #esp32</a> <sub>2026-11-01</sub></li>
-<li><a href="https://www.youtube.com/watch?v=t0RikGClomM">Biscuit Portapack H4m ADSB Node #biscuitpro #wardriving #adsb</a> <sub>2026-11-01</sub></li>
-<li><a href="https://www.youtube.com/watch?v=hxnMnTxypZo">Waveshare 1.73in Square C5 Dev Board [Non-Touch] #esp32</a> <sub>2026-11-01</sub></li>
-<li><a href="https://www.youtube.com/watch?v=7muHkHEAKFM">Monstatek M1 Multitool Kickstarter Finally Here!</a> <sub>2026-10-31</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
