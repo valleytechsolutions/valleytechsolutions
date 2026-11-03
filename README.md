@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=Pnz6P1PMSM4">Cerberus Development Board - 463n7.io</a> <sub>2026-11-02</sub></li>
-<li><a href="https://www.youtube.com/watch?v=yXZWkQj5Hkg">Cerberus Dev Board Updates #esp32</a> <sub>2026-11-02</sub></li>
-<li><a href="https://www.youtube.com/watch?v=2bZLivfWxII">BFFB 2 Returns #flipperzero #esp32</a> <sub>2026-11-02</sub></li>
-<li><a href="https://www.youtube.com/watch?v=Whskx3KFdBg">LORA Wardriving #LORA #wardriving #esp32 #heltec</a> <sub>2026-11-01</sub></li>
-<li><a href="https://www.youtube.com/watch?v=lMwkAli1Hxo">Changes on the Heltec Lora 32 V4 Expansion V2 #lora #esp32</a> <sub>2026-11-01</sub></li>
+<li><a href="https://www.youtube.com/watch?v=rkMFPGv-Sg0">Sensecap Watcher Dragon Detector #esp32 #seeed</a> <sub>2026-11-03</sub></li>
+<li><a href="https://www.youtube.com/watch?v=qRDZ27hL9L0">Bloodhound 4in Halehound Here #halehound #esp32 #cyd</a> <sub>2026-11-03</sub></li>
+<li><a href="https://www.youtube.com/watch?v=24p11ONBqB4">DMAC&#x27;s Custom McTickler Lockpick</a> <sub>2026-11-03</sub></li>
+<li><a href="https://www.youtube.com/watch?v=ZZ3TNqxWhn4">LORA Wardriving #esp32 #lora meshtastic</a> <sub>2026-11-02</sub></li>
+<li><a href="https://www.youtube.com/watch?v=qz6E7D3pM0Q">M5stack Stopwatch Made into a Wireless Security Device #m5stack #esp32</a> <sub>2026-11-02</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

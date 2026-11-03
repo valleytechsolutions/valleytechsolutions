@@ -1,31 +1,31 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-02T15:47:48.473068+00:00",
+  "checked": "2026-11-03T14:11:25.462383+00:00",
   "entries": [
     {
-      "id": "Pnz6P1PMSM4",
-      "title": "Cerberus Development Board - 463n7.io",
-      "published": "2026-11-02T15:30:07+00:00"
+      "id": "rkMFPGv-Sg0",
+      "title": "Sensecap Watcher Dragon Detector #esp32 #seeed",
+      "published": "2026-11-03T11:00:32+00:00"
     },
     {
-      "id": "yXZWkQj5Hkg",
-      "title": "Cerberus Dev Board Updates #esp32",
-      "published": "2026-11-02T11:00:14+00:00"
+      "id": "qRDZ27hL9L0",
+      "title": "Bloodhound 4in Halehound Here #halehound #esp32 #cyd",
+      "published": "2026-11-03T04:55:20+00:00"
     },
     {
-      "id": "2bZLivfWxII",
-      "title": "BFFB 2 Returns #flipperzero #esp32",
-      "published": "2026-11-02T05:00:08+00:00"
+      "id": "24p11ONBqB4",
+      "title": "DMAC's Custom McTickler Lockpick",
+      "published": "2026-11-03T02:18:39+00:00"
     },
     {
-      "id": "Whskx3KFdBg",
-      "title": "LORA Wardriving #LORA #wardriving #esp32 #heltec",
-      "published": "2026-11-01T21:48:38+00:00"
+      "id": "ZZ3TNqxWhn4",
+      "title": "LORA Wardriving #esp32 #lora meshtastic",
+      "published": "2026-11-02T22:04:23+00:00"
     },
     {
-      "id": "lMwkAli1Hxo",
-      "title": "Changes on the Heltec Lora 32 V4 Expansion V2 #lora #esp32",
-      "published": "2026-11-01T17:00:03+00:00"
+      "id": "qz6E7D3pM0Q",
+      "title": "M5stack Stopwatch Made into a Wireless Security Device #m5stack #esp32",
+      "published": "2026-11-02T17:00:05+00:00"
     }
   ]
 }
