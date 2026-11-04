@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=rkMFPGv-Sg0">Sensecap Watcher Dragon Detector #esp32 #seeed</a> <sub>2026-11-03</sub></li>
-<li><a href="https://www.youtube.com/watch?v=qRDZ27hL9L0">Bloodhound 4in Halehound Here #halehound #esp32 #cyd</a> <sub>2026-11-03</sub></li>
-<li><a href="https://www.youtube.com/watch?v=24p11ONBqB4">DMAC&#x27;s Custom McTickler Lockpick</a> <sub>2026-11-03</sub></li>
-<li><a href="https://www.youtube.com/watch?v=ZZ3TNqxWhn4">LORA Wardriving #esp32 #lora meshtastic</a> <sub>2026-11-02</sub></li>
-<li><a href="https://www.youtube.com/watch?v=qz6E7D3pM0Q">M5stack Stopwatch Made into a Wireless Security Device #m5stack #esp32</a> <sub>2026-11-02</sub></li>
+<li><a href="https://www.youtube.com/watch?v=oonYr1-K9uw">Cerberus with JustCallMeKoKo&#x27;s DualBand GNSS Reciever #wardriving #esp32</a> <sub>2026-11-04</sub></li>
+<li><a href="https://www.youtube.com/watch?v=Jm-Zpu0OLm4">4inches is Huge #esp32 #cyd</a> <sub>2026-11-04</sub></li>
+<li><a href="https://www.youtube.com/watch?v=7muHkHEAKFM">Monstatek M1 Multitool Kickstarter Finally Here!</a> <sub>2026-11-04</sub></li>
+<li><a href="https://www.youtube.com/watch?v=effA_A4fsBc">LORA WARDRIVING on Cardputer ADV #Lora #esp32 #m5stack</a> <sub>2026-11-04</sub></li>
+<li><a href="https://www.youtube.com/watch?v=H_qCoFMnbAc">RASPBERRY PI ZERO 3 #raspberrypi</a> <sub>2026-11-04</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
