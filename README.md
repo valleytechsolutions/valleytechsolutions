@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=gcc_T9YD258">ESP8266 Tamagotchi #esp8266 #Tamagotchi</a> <sub>2026-11-05</sub></li>
-<li><a href="https://www.youtube.com/watch?v=bb8jmqRMtHk">They Can’t See You Coming: LORA Wardriving Is Here</a> <sub>2026-11-05</sub></li>
-<li><a href="https://www.youtube.com/watch?v=GC7gjqag3CQ">Orange Pi 6 Plus #orangepi #raspberrypi #makerpropaganda</a> <sub>2026-11-05</sub></li>
-<li><a href="https://www.youtube.com/watch?v=GLhl4e6VFmQ">LORA Wardriving with LORA Tunnel Updates</a> <sub>2026-11-05</sub></li>
-<li><a href="https://www.youtube.com/watch?v=02imE1tVPNE">Hackergadgets Pwnagotchi Board #raspberrypi #Pwnagotchi</a> <sub>2026-11-04</sub></li>
+<li><a href="https://www.youtube.com/watch?v=ixjGuHhPang">Pimoroni Pico Plus 2 #pimoroni #raspberrypi</a> <sub>2026-11-06</sub></li>
+<li><a href="https://www.youtube.com/watch?v=4mEmA1kOjwU">ADSB Node Wardriving - Biscuit Manager</a> <sub>2026-11-06</sub></li>
+<li><a href="https://www.youtube.com/watch?v=OOpQwGFXI_M">Dual Esp Halehound RF Daughterboard on Awok Dual ESP</a> <sub>2026-11-06</sub></li>
+<li><a href="https://www.youtube.com/watch?v=uQ5e0HezqVA">DECODING LORA , WHILE WARDRIVING LORA #MESHTASTIC #WARDRIVING</a> <sub>2026-11-06</sub></li>
+<li><a href="https://www.youtube.com/watch?v=Ad8bi3cKAtI">Awokdynamics.com Updates! #esp32 #wardriving</a> <sub>2026-11-05</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
