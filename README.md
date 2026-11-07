@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=WmCDXamTArM">Halehound Drone Shenanigans</a> <sub>2026-11-07</sub></li>
+<li><a href="https://www.youtube.com/watch?v=LvWrrzfz4XU">Thoughts On Heltec V4 Expansion V2 #lora #esp32</a> <sub>2026-11-07</sub></li>
+<li><a href="https://www.youtube.com/watch?v=WaqT5fDNGjU">Xiao Esp32-s3 Plus 1.47in Touchscreen #seeed #esp32</a> <sub>2026-11-07</sub></li>
+<li><a href="https://www.youtube.com/watch?v=wvOqk5EGrNE">heltec launcher port</a> <sub>2026-11-06</sub></li>
 <li><a href="https://www.youtube.com/watch?v=ixjGuHhPang">Pimoroni Pico Plus 2 #pimoroni #raspberrypi</a> <sub>2026-11-06</sub></li>
-<li><a href="https://www.youtube.com/watch?v=4mEmA1kOjwU">ADSB Node Wardriving - Biscuit Manager</a> <sub>2026-11-06</sub></li>
-<li><a href="https://www.youtube.com/watch?v=OOpQwGFXI_M">Dual Esp Halehound RF Daughterboard on Awok Dual ESP</a> <sub>2026-11-06</sub></li>
-<li><a href="https://www.youtube.com/watch?v=uQ5e0HezqVA">DECODING LORA , WHILE WARDRIVING LORA #MESHTASTIC #WARDRIVING</a> <sub>2026-11-06</sub></li>
-<li><a href="https://www.youtube.com/watch?v=Ad8bi3cKAtI">Awokdynamics.com Updates! #esp32 #wardriving</a> <sub>2026-11-05</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
