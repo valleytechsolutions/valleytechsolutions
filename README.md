@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=kKfgq7UDSDg">Why You Should Be Playing Wardrift Right Now</a> <sub>2026-11-07</sub></li>
+<li><a href="https://www.youtube.com/watch?v=5OLfVhydnC0">Bruce on Heltec Expansion V2</a> <sub>2026-11-07</sub></li>
+<li><a href="https://www.youtube.com/watch?v=t90frhFq4v8">Evil Core Cyberdeck #m5stack #esp32</a> <sub>2026-11-07</sub></li>
 <li><a href="https://www.youtube.com/watch?v=WmCDXamTArM">Halehound Drone Shenanigans</a> <sub>2026-11-07</sub></li>
 <li><a href="https://www.youtube.com/watch?v=LvWrrzfz4XU">Thoughts On Heltec V4 Expansion V2 #lora #esp32</a> <sub>2026-11-07</sub></li>
-<li><a href="https://www.youtube.com/watch?v=WaqT5fDNGjU">Xiao Esp32-s3 Plus 1.47in Touchscreen #seeed #esp32</a> <sub>2026-11-07</sub></li>
-<li><a href="https://www.youtube.com/watch?v=wvOqk5EGrNE">heltec launcher port</a> <sub>2026-11-06</sub></li>
-<li><a href="https://www.youtube.com/watch?v=ixjGuHhPang">Pimoroni Pico Plus 2 #pimoroni #raspberrypi</a> <sub>2026-11-06</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

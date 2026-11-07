@@ -1,7 +1,22 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-07T12:58:26.832756+00:00",
+  "checked": "2026-11-07T21:48:26.710671+00:00",
   "entries": [
+    {
+      "id": "kKfgq7UDSDg",
+      "title": "Why You Should Be Playing Wardrift Right Now",
+      "published": "2026-11-07T17:00:21+00:00"
+    },
+    {
+      "id": "5OLfVhydnC0",
+      "title": "Bruce on Heltec Expansion V2",
+      "published": "2026-11-07T15:39:37+00:00"
+    },
+    {
+      "id": "t90frhFq4v8",
+      "title": "Evil Core Cyberdeck #m5stack #esp32",
+      "published": "2026-11-07T13:00:17+00:00"
+    },
     {
       "id": "WmCDXamTArM",
       "title": "Halehound Drone Shenanigans",
@@ -11,21 +26,6 @@
       "id": "LvWrrzfz4XU",
       "title": "Thoughts On Heltec V4 Expansion V2 #lora #esp32",
       "published": "2026-11-07T05:00:15+00:00"
-    },
-    {
-      "id": "WaqT5fDNGjU",
-      "title": "Xiao Esp32-s3 Plus 1.47in Touchscreen #seeed #esp32",
-      "published": "2026-11-07T00:00:27+00:00"
-    },
-    {
-      "id": "wvOqk5EGrNE",
-      "title": "heltec launcher port",
-      "published": "2026-11-06T20:18:12+00:00"
-    },
-    {
-      "id": "ixjGuHhPang",
-      "title": "Pimoroni Pico Plus 2 #pimoroni #raspberrypi",
-      "published": "2026-11-06T18:00:36+00:00"
     }
   ]
 }
