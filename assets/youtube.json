@@ -1,7 +1,12 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-08T13:22:29.398768+00:00",
+  "checked": "2026-11-08T22:02:48.828328+00:00",
   "entries": [
+    {
+      "id": "6oP8RdfaLfA",
+      "title": "Cerberus Updates",
+      "published": "2026-11-08T17:00:24+00:00"
+    },
     {
       "id": "Bax9OPSjb18",
       "title": "Asus TinkerBoard Rev 1.2 #asus #raspberrypi",
@@ -21,11 +26,6 @@
       "id": "xsXrX5Ijb6g",
       "title": "coming soon.",
       "published": "2026-11-08T01:34:42+00:00"
-    },
-    {
-      "id": "8OTxHj-vbOU",
-      "title": "Halehound 4in CYD & Future Hardware Collabs",
-      "published": "2026-11-07T23:26:40+00:00"
     }
   ]
 }
