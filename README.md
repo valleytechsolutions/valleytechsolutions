@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=6oP8RdfaLfA">Cerberus Updates</a> <sub>2026-11-08</sub></li>
-<li><a href="https://www.youtube.com/watch?v=Bax9OPSjb18">Asus TinkerBoard Rev 1.2 #asus #raspberrypi</a> <sub>2026-11-08</sub></li>
-<li><a href="https://www.youtube.com/watch?v=b6CA_2UwreY">@dmac_locksport sent me a pick blank... now im waiting on scales.</a> <sub>2026-11-08</sub></li>
-<li><a href="https://www.youtube.com/watch?v=IwrEsCTevzM">Cerberus Wardriving</a> <sub>2026-11-08</sub></li>
-<li><a href="https://www.youtube.com/watch?v=xsXrX5Ijb6g">coming soon.</a> <sub>2026-11-08</sub></li>
+<li><a href="https://www.youtube.com/watch?v=uS3_Eq2Ob-U">Adafruit Ultimate GPS #gps #adafruit</a> <sub>2026-11-09</sub></li>
+<li><a href="https://www.youtube.com/watch?v=8EYenN5IofM">Dragon Detector Bluetooth Reverse Engineering</a> <sub>2026-11-09</sub></li>
+<li><a href="https://www.youtube.com/watch?v=8OTxHj-vbOU">Halehound 4in CYD &amp; Future Hardware Collabs</a> <sub>2026-11-09</sub></li>
+<li><a href="https://www.youtube.com/watch?v=lVWaxDAIuvw">Visual Alerts With Skid Detector #seeed #esp32</a> <sub>2026-11-09</sub></li>
+<li><a href="https://www.youtube.com/watch?v=Sf93pSM0bKY">My Lockpicking EDC &amp; Lockwood Mctickled</a> <sub>2026-11-09</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
