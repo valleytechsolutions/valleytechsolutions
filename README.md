@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=-Pjuuxkv24w">DIY Off-Grid Comms: Turning Anything Into a Meshtastic Node</a> <sub>2026-11-10</sub></li>
+<li><a href="https://www.youtube.com/watch?v=LdbVVr6U50s">NEW STOPWATCH INCOMING #WAVESHARE</a> <sub>2026-11-10</sub></li>
+<li><a href="https://www.youtube.com/watch?v=UGTUcw755wo">Modified Southord Max Lockpick</a> <sub>2026-11-10</sub></li>
 <li><a href="https://www.youtube.com/watch?v=uS3_Eq2Ob-U">Adafruit Ultimate GPS #gps #adafruit</a> <sub>2026-11-09</sub></li>
 <li><a href="https://www.youtube.com/watch?v=8EYenN5IofM">Dragon Detector Bluetooth Reverse Engineering</a> <sub>2026-11-09</sub></li>
-<li><a href="https://www.youtube.com/watch?v=8OTxHj-vbOU">Halehound 4in CYD &amp; Future Hardware Collabs</a> <sub>2026-11-09</sub></li>
-<li><a href="https://www.youtube.com/watch?v=lVWaxDAIuvw">Visual Alerts With Skid Detector #seeed #esp32</a> <sub>2026-11-09</sub></li>
-<li><a href="https://www.youtube.com/watch?v=Sf93pSM0bKY">My Lockpicking EDC &amp; Lockwood Mctickled</a> <sub>2026-11-09</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

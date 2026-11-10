@@ -1,7 +1,22 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-09T22:20:27.223424+00:00",
+  "checked": "2026-11-10T19:42:35.249163+00:00",
   "entries": [
+    {
+      "id": "-Pjuuxkv24w",
+      "title": "DIY Off-Grid Comms: Turning Anything Into a Meshtastic Node",
+      "published": "2026-11-10T16:00:33+00:00"
+    },
+    {
+      "id": "LdbVVr6U50s",
+      "title": "NEW STOPWATCH INCOMING #WAVESHARE",
+      "published": "2026-11-10T11:00:32+00:00"
+    },
+    {
+      "id": "UGTUcw755wo",
+      "title": "Modified Southord Max Lockpick",
+      "published": "2026-11-10T05:00:03+00:00"
+    },
     {
       "id": "uS3_Eq2Ob-U",
       "title": "Adafruit Ultimate GPS #gps #adafruit",
@@ -11,21 +26,6 @@
       "id": "8EYenN5IofM",
       "title": "Dragon Detector Bluetooth Reverse Engineering",
       "published": "2026-11-09T17:05:13+00:00"
-    },
-    {
-      "id": "8OTxHj-vbOU",
-      "title": "Halehound 4in CYD & Future Hardware Collabs",
-      "published": "2026-11-09T16:00:09+00:00"
-    },
-    {
-      "id": "lVWaxDAIuvw",
-      "title": "Visual Alerts With Skid Detector #seeed #esp32",
-      "published": "2026-11-09T11:00:19+00:00"
-    },
-    {
-      "id": "Sf93pSM0bKY",
-      "title": "My Lockpicking EDC & Lockwood Mctickled",
-      "published": "2026-11-09T08:00:39+00:00"
     }
   ]
 }
