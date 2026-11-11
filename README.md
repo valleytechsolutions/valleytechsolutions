@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=ghg6XsNj_tw">Cerberus Development Board by 463n7 #esp32</a> <sub>2026-11-11</sub></li>
+<li><a href="https://www.youtube.com/watch?v=RMdSszOad54">Polishing Lockpicks</a> <sub>2026-11-11</sub></li>
+<li><a href="https://www.youtube.com/watch?v=tGtB2f8HRGY">Waveshare C5 Mini #esp32 #waveshare</a> <sub>2026-11-10</sub></li>
+<li><a href="https://www.youtube.com/watch?v=shEfP36Kmvw">Elecrow M9 came In!</a> <sub>2026-11-10</sub></li>
 <li><a href="https://www.youtube.com/watch?v=-Pjuuxkv24w">DIY Off-Grid Comms: Turning Anything Into a Meshtastic Node</a> <sub>2026-11-10</sub></li>
-<li><a href="https://www.youtube.com/watch?v=LdbVVr6U50s">NEW STOPWATCH INCOMING #WAVESHARE</a> <sub>2026-11-10</sub></li>
-<li><a href="https://www.youtube.com/watch?v=UGTUcw755wo">Modified Southord Max Lockpick</a> <sub>2026-11-10</sub></li>
-<li><a href="https://www.youtube.com/watch?v=uS3_Eq2Ob-U">Adafruit Ultimate GPS #gps #adafruit</a> <sub>2026-11-09</sub></li>
-<li><a href="https://www.youtube.com/watch?v=8EYenN5IofM">Dragon Detector Bluetooth Reverse Engineering</a> <sub>2026-11-09</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
