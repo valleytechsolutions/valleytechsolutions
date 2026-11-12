@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=jHy9fT0_eQs">my first attempt at making a lovkpick handle</a> <sub>2026-11-11</sub></li>
+<li><a href="https://www.youtube.com/watch?v=IRMqFIVINHk">Find Any Pinout References &amp; Data Sheet for Any Board! #raspberrypi #esp32 #arduino #m5stack</a> <sub>2026-11-11</sub></li>
+<li><a href="https://www.youtube.com/watch?v=K6NbwDftRbQ">Cardputer ADV Replaced? #m5stack #esp32</a> <sub>2026-11-11</sub></li>
+<li><a href="https://www.youtube.com/watch?v=Y4Mylj5zCe0">Hacker Gadgets Pwnagotchi Board</a> <sub>2026-11-11</sub></li>
 <li><a href="https://www.youtube.com/watch?v=ghg6XsNj_tw">Cerberus Development Board by 463n7 #esp32</a> <sub>2026-11-11</sub></li>
-<li><a href="https://www.youtube.com/watch?v=RMdSszOad54">Polishing Lockpicks</a> <sub>2026-11-11</sub></li>
-<li><a href="https://www.youtube.com/watch?v=tGtB2f8HRGY">Waveshare C5 Mini #esp32 #waveshare</a> <sub>2026-11-10</sub></li>
-<li><a href="https://www.youtube.com/watch?v=shEfP36Kmvw">Elecrow M9 came In!</a> <sub>2026-11-10</sub></li>
-<li><a href="https://www.youtube.com/watch?v=-Pjuuxkv24w">DIY Off-Grid Comms: Turning Anything Into a Meshtastic Node</a> <sub>2026-11-10</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
