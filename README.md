@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=jHy9fT0_eQs">my first attempt at making a lovkpick handle</a> <sub>2026-11-11</sub></li>
-<li><a href="https://www.youtube.com/watch?v=IRMqFIVINHk">Find Any Pinout References &amp; Data Sheet for Any Board! #raspberrypi #esp32 #arduino #m5stack</a> <sub>2026-11-11</sub></li>
-<li><a href="https://www.youtube.com/watch?v=K6NbwDftRbQ">Cardputer ADV Replaced? #m5stack #esp32</a> <sub>2026-11-11</sub></li>
-<li><a href="https://www.youtube.com/watch?v=Y4Mylj5zCe0">Hacker Gadgets Pwnagotchi Board</a> <sub>2026-11-11</sub></li>
-<li><a href="https://www.youtube.com/watch?v=ghg6XsNj_tw">Cerberus Development Board by 463n7 #esp32</a> <sub>2026-11-11</sub></li>
+<li><a href="https://www.youtube.com/watch?v=VYEccSwWWq0">Pi USB Hub #raspberrypi</a> <sub>2026-11-12</sub></li>
+<li><a href="https://www.youtube.com/watch?v=5U52g6bw-bg">Reaper 26 Set By Covert instruments</a> <sub>2026-11-12</sub></li>
+<li><a href="https://www.youtube.com/watch?v=SoygRPAbnwY">Turing Pi 2</a> <sub>2026-11-12</sub></li>
+<li><a href="https://www.youtube.com/watch?v=f2cCmztpb0E">November 11, 2026</a> <sub>2026-11-12</sub></li>
+<li><a href="https://www.youtube.com/watch?v=A8CVzAbY7uI">Xiao Wardriving #seeed #esp32</a> <sub>2026-11-12</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
