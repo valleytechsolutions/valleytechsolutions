@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=hUKXzGZLHkE">Cerberus Wardriving</a> <sub>2026-11-12</sub></li>
+<li><a href="https://www.youtube.com/watch?v=w3UvNQSYFKs">Covert Instruments Breakout Card Ambush Handle By @44DeltaInc</a> <sub>2026-11-12</sub></li>
+<li><a href="https://www.youtube.com/watch?v=YCCFmoE3Y1I">Poom Updates #esp32</a> <sub>2026-11-12</sub></li>
+<li><a href="https://www.youtube.com/watch?v=qxEg7kxbAog">Rebranding, Fake Marauders, Fake Bypass tools</a> <sub>2026-11-12</sub></li>
 <li><a href="https://www.youtube.com/watch?v=VYEccSwWWq0">Pi USB Hub #raspberrypi</a> <sub>2026-11-12</sub></li>
-<li><a href="https://www.youtube.com/watch?v=5U52g6bw-bg">Reaper 26 Set By Covert instruments</a> <sub>2026-11-12</sub></li>
-<li><a href="https://www.youtube.com/watch?v=SoygRPAbnwY">Turing Pi 2</a> <sub>2026-11-12</sub></li>
-<li><a href="https://www.youtube.com/watch?v=f2cCmztpb0E">November 11, 2026</a> <sub>2026-11-12</sub></li>
-<li><a href="https://www.youtube.com/watch?v=A8CVzAbY7uI">Xiao Wardriving #seeed #esp32</a> <sub>2026-11-12</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
