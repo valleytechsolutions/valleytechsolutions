@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=hUKXzGZLHkE">Cerberus Wardriving</a> <sub>2026-11-12</sub></li>
-<li><a href="https://www.youtube.com/watch?v=w3UvNQSYFKs">Covert Instruments Breakout Card Ambush Handle By @44DeltaInc</a> <sub>2026-11-12</sub></li>
-<li><a href="https://www.youtube.com/watch?v=YCCFmoE3Y1I">Poom Updates #esp32</a> <sub>2026-11-12</sub></li>
-<li><a href="https://www.youtube.com/watch?v=qxEg7kxbAog">Rebranding, Fake Marauders, Fake Bypass tools</a> <sub>2026-11-12</sub></li>
-<li><a href="https://www.youtube.com/watch?v=VYEccSwWWq0">Pi USB Hub #raspberrypi</a> <sub>2026-11-12</sub></li>
+<li><a href="https://www.youtube.com/watch?v=8h2kgfAVtgA">Happy friday, lets build some stuff</a> <sub>2026-11-13</sub></li>
+<li><a href="https://www.youtube.com/watch?v=gCsJtzHrW1c">Pimoroni Flat Hat Hacker #raspberrypi</a> <sub>2026-11-13</sub></li>
+<li><a href="https://www.youtube.com/watch?v=9Vny6MgSFYQ">The WiFi Pineapple Pager GPS Upgrade You&#x27;ve Been Waiting For</a> <sub>2026-11-13</sub></li>
+<li><a href="https://www.youtube.com/watch?v=5lmprKf4EuI">M5stack Stackchan Dash-Chan Wardriving Buddy #m5stack #Wardriving #esp32</a> <sub>2026-11-13</sub></li>
+<li><a href="https://www.youtube.com/watch?v=k_ye5MgfP-I">Covert Instruments Reaper 26 Lockpick Set by Mcnally</a> <sub>2026-11-13</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
