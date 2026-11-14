@@ -1,7 +1,12 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-14T17:59:20.201223+00:00",
+  "checked": "2026-11-14T22:22:26.501911+00:00",
   "entries": [
+    {
+      "id": "esiXyfsT5IM",
+      "title": "Wardriving With Drones #esp32 #wardriving #fpv",
+      "published": "2026-11-14T21:38:20+00:00"
+    },
     {
       "id": "OSBOZm-87M8",
       "title": "Detect Malicious Wireless Activity with Dragon Detector #esp32",
@@ -21,11 +26,6 @@
       "id": "gCsJtzHrW1c",
       "title": "Pimoroni Flat Hat Hacker #raspberrypi",
       "published": "2026-11-13T18:14:00+00:00"
-    },
-    {
-      "id": "9Vny6MgSFYQ",
-      "title": "The WiFi Pineapple Pager GPS Upgrade You've Been Waiting For",
-      "published": "2026-11-13T16:00:36+00:00"
     }
   ]
 }

@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=esiXyfsT5IM">Wardriving With Drones #esp32 #wardriving #fpv</a> <sub>2026-11-14</sub></li>
 <li><a href="https://www.youtube.com/watch?v=OSBOZm-87M8">Detect Malicious Wireless Activity with Dragon Detector #esp32</a> <sub>2026-11-14</sub></li>
 <li><a href="https://www.youtube.com/watch?v=5esoLjKRXAo">Burg Wachter Profi Mctickled with @dmac_locksport Custom mctickler</a> <sub>2026-11-14</sub></li>
 <li><a href="https://www.youtube.com/watch?v=kcBGHJWRtEM">Waveshare X306 #raspberrypi #raspyjack</a> <sub>2026-11-14</sub></li>
 <li><a href="https://www.youtube.com/watch?v=gCsJtzHrW1c">Pimoroni Flat Hat Hacker #raspberrypi</a> <sub>2026-11-13</sub></li>
-<li><a href="https://www.youtube.com/watch?v=9Vny6MgSFYQ">The WiFi Pineapple Pager GPS Upgrade You&#x27;ve Been Waiting For</a> <sub>2026-11-13</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
