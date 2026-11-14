@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=8h2kgfAVtgA">Happy friday, lets build some stuff</a> <sub>2026-11-13</sub></li>
+<li><a href="https://www.youtube.com/watch?v=OSBOZm-87M8">Detect Malicious Wireless Activity with Dragon Detector #esp32</a> <sub>2026-11-14</sub></li>
+<li><a href="https://www.youtube.com/watch?v=5esoLjKRXAo">Burg Wachter Profi Mctickled with @dmac_locksport Custom mctickler</a> <sub>2026-11-14</sub></li>
+<li><a href="https://www.youtube.com/watch?v=kcBGHJWRtEM">Waveshare X306 #raspberrypi #raspyjack</a> <sub>2026-11-14</sub></li>
 <li><a href="https://www.youtube.com/watch?v=gCsJtzHrW1c">Pimoroni Flat Hat Hacker #raspberrypi</a> <sub>2026-11-13</sub></li>
 <li><a href="https://www.youtube.com/watch?v=9Vny6MgSFYQ">The WiFi Pineapple Pager GPS Upgrade You&#x27;ve Been Waiting For</a> <sub>2026-11-13</sub></li>
-<li><a href="https://www.youtube.com/watch?v=5lmprKf4EuI">M5stack Stackchan Dash-Chan Wardriving Buddy #m5stack #Wardriving #esp32</a> <sub>2026-11-13</sub></li>
-<li><a href="https://www.youtube.com/watch?v=k_ye5MgfP-I">Covert Instruments Reaper 26 Lockpick Set by Mcnally</a> <sub>2026-11-13</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

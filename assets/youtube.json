@@ -1,11 +1,21 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-13T19:40:11.544837+00:00",
+  "checked": "2026-11-14T17:59:20.201223+00:00",
   "entries": [
     {
-      "id": "8h2kgfAVtgA",
-      "title": "Happy friday, lets build some stuff",
-      "published": "2026-11-13T19:04:27+00:00"
+      "id": "OSBOZm-87M8",
+      "title": "Detect Malicious Wireless Activity with Dragon Detector #esp32",
+      "published": "2026-11-14T11:00:04+00:00"
+    },
+    {
+      "id": "5esoLjKRXAo",
+      "title": "Burg Wachter Profi Mctickled with @dmac_locksport Custom mctickler",
+      "published": "2026-11-14T05:00:23+00:00"
+    },
+    {
+      "id": "kcBGHJWRtEM",
+      "title": "Waveshare X306 #raspberrypi #raspyjack",
+      "published": "2026-11-14T00:00:07+00:00"
     },
     {
       "id": "gCsJtzHrW1c",
@@ -16,16 +26,6 @@
       "id": "9Vny6MgSFYQ",
       "title": "The WiFi Pineapple Pager GPS Upgrade You've Been Waiting For",
       "published": "2026-11-13T16:00:36+00:00"
-    },
-    {
-      "id": "5lmprKf4EuI",
-      "title": "M5stack Stackchan Dash-Chan Wardriving Buddy #m5stack #Wardriving #esp32",
-      "published": "2026-11-13T11:00:19+00:00"
-    },
-    {
-      "id": "k_ye5MgfP-I",
-      "title": "Covert Instruments Reaper 26 Lockpick Set by Mcnally",
-      "published": "2026-11-13T03:11:56+00:00"
     }
   ]
 }
