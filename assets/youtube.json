@@ -1,7 +1,22 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-14T22:22:26.501911+00:00",
+  "checked": "2026-11-15T18:50:01.249570+00:00",
   "entries": [
+    {
+      "id": "m2tgPNOi8lw",
+      "title": "M5STACK STAMP EVIL FIRMWARE ADD-oN #esp32 #m5stack",
+      "published": "2026-11-15T17:00:06+00:00"
+    },
+    {
+      "id": "-rIM8ctyTWI",
+      "title": "Orange Pi 4 Pro",
+      "published": "2026-11-15T11:00:24+00:00"
+    },
+    {
+      "id": "8TLgnzFoz1Q",
+      "title": "Making an Acrylic mctickler",
+      "published": "2026-11-15T05:00:35+00:00"
+    },
     {
       "id": "esiXyfsT5IM",
       "title": "Wardriving With Drones #esp32 #wardriving #fpv",
@@ -11,21 +26,6 @@
       "id": "OSBOZm-87M8",
       "title": "Detect Malicious Wireless Activity with Dragon Detector #esp32",
       "published": "2026-11-14T11:00:04+00:00"
-    },
-    {
-      "id": "5esoLjKRXAo",
-      "title": "Burg Wachter Profi Mctickled with @dmac_locksport Custom mctickler",
-      "published": "2026-11-14T05:00:23+00:00"
-    },
-    {
-      "id": "kcBGHJWRtEM",
-      "title": "Waveshare X306 #raspberrypi #raspyjack",
-      "published": "2026-11-14T00:00:07+00:00"
-    },
-    {
-      "id": "gCsJtzHrW1c",
-      "title": "Pimoroni Flat Hat Hacker #raspberrypi",
-      "published": "2026-11-13T18:14:00+00:00"
     }
   ]
 }
