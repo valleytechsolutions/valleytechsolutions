@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=MOhjxCvoFa8">Double Ended Covert instruments Picks with 44delta ambush handles</a> <sub>2026-11-17</sub></li>
+<li><a href="https://www.youtube.com/watch?v=ENUdos4C1ls">6ghz Biscuit Pager Node #hak5 #esp32</a> <sub>2026-11-17</sub></li>
 <li><a href="https://www.youtube.com/watch?v=0YbophH_XKw">3.5in Capacitive Touch Display #esp32</a> <sub>2026-11-16</sub></li>
 <li><a href="https://www.youtube.com/watch?v=boTzHU6MiB0">ESP32-S3 Cheap Black Display #esp32</a> <sub>2026-11-16</sub></li>
 <li><a href="https://www.youtube.com/watch?v=9pYqlJ9Ao6w">Hak5 6ghz Pager Node Live</a> <sub>2026-11-16</sub></li>
-<li><a href="https://www.youtube.com/watch?v=bD_sRvrnpgU">Biscuit Manager App - Dronemapper Custom Endpoint Setup</a> <sub>2026-11-16</sub></li>
-<li><a href="https://www.youtube.com/watch?v=A2lZnVehd6I">Banana Pi M4 Zero #bananapi #raspberrypi</a> <sub>2026-11-16</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
