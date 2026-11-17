@@ -1,7 +1,22 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-17T07:53:00.393274+00:00",
+  "checked": "2026-11-17T20:53:29.225382+00:00",
   "entries": [
+    {
+      "id": "E5HjAUjTZdE",
+      "title": "Dragon Detector Biscuit Node",
+      "published": "2026-11-17T16:32:21+00:00"
+    },
+    {
+      "id": "77yQ9qW8v-o",
+      "title": "M5stack Stackchan Wardriving Companion: Dash-Chan",
+      "published": "2026-11-17T15:45:29+00:00"
+    },
+    {
+      "id": "7UuxrZladfU",
+      "title": "JustCallMeKoKo's Dualband GNSS Module #gps #gnss #wardriving",
+      "published": "2026-11-17T11:00:14+00:00"
+    },
     {
       "id": "MOhjxCvoFa8",
       "title": "Double Ended Covert instruments Picks with 44delta ambush handles",
@@ -11,21 +26,6 @@
       "id": "ENUdos4C1ls",
       "title": "6ghz Biscuit Pager Node #hak5 #esp32",
       "published": "2026-11-17T00:10:15+00:00"
-    },
-    {
-      "id": "0YbophH_XKw",
-      "title": "3.5in Capacitive Touch Display #esp32",
-      "published": "2026-11-16T20:00:10+00:00"
-    },
-    {
-      "id": "boTzHU6MiB0",
-      "title": "ESP32-S3 Cheap Black Display #esp32",
-      "published": "2026-11-16T17:00:17+00:00"
-    },
-    {
-      "id": "9pYqlJ9Ao6w",
-      "title": "Hak5 6ghz Pager Node Live",
-      "published": "2026-11-16T16:46:47+00:00"
     }
   ]
 }
