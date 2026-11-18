@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=FOg5ZdgfF5s">Orange Pi Zero 4 #orangepi #allwinner #raspberrypi</a> <sub>2026-11-18</sub></li>
+<li><a href="https://www.youtube.com/watch?v=FUE9cdegpuI">Waveshare 1.85 Round ESP32-S3 Stopwatch</a> <sub>2026-11-18</sub></li>
+<li><a href="https://www.youtube.com/watch?v=VTb2ea67brw">Dragon Detector Wardriving Node Mode #esp32 #wardriving</a> <sub>2026-11-18</sub></li>
 <li><a href="https://www.youtube.com/watch?v=BQAPQO7f858">Hak5 Pager LORA Wardriving &amp; Decoding</a> <sub>2026-11-18</sub></li>
 <li><a href="https://www.youtube.com/watch?v=0lJQ95GJGk4">I was wrong</a> <sub>2026-11-17</sub></li>
-<li><a href="https://www.youtube.com/watch?v=3uhb7d0CrH4">Covert Instruments 44Delta Breakout Card Handles</a> <sub>2026-11-17</sub></li>
-<li><a href="https://www.youtube.com/watch?v=K3njgUrOfFQ">Waveshare 1.47in Dev Boards #esp32 #waveshare</a> <sub>2026-11-17</sub></li>
-<li><a href="https://www.youtube.com/watch?v=E5HjAUjTZdE">Dragon Detector Biscuit Node</a> <sub>2026-11-17</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

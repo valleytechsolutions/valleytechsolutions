@@ -1,7 +1,22 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-18T07:26:28.547571+00:00",
+  "checked": "2026-11-18T20:29:20.222561+00:00",
   "entries": [
+    {
+      "id": "FOg5ZdgfF5s",
+      "title": "Orange Pi Zero 4 #orangepi #allwinner #raspberrypi",
+      "published": "2026-11-18T17:00:02+00:00"
+    },
+    {
+      "id": "FUE9cdegpuI",
+      "title": "Waveshare 1.85 Round ESP32-S3 Stopwatch",
+      "published": "2026-11-18T16:00:16+00:00"
+    },
+    {
+      "id": "VTb2ea67brw",
+      "title": "Dragon Detector Wardriving Node Mode #esp32 #wardriving",
+      "published": "2026-11-18T11:00:25+00:00"
+    },
     {
       "id": "BQAPQO7f858",
       "title": "Hak5 Pager LORA Wardriving & Decoding",
@@ -11,21 +26,6 @@
       "id": "0lJQ95GJGk4",
       "title": "I was wrong",
       "published": "2026-11-17T23:25:31+00:00"
-    },
-    {
-      "id": "3uhb7d0CrH4",
-      "title": "Covert Instruments 44Delta Breakout Card Handles",
-      "published": "2026-11-17T23:00:38+00:00"
-    },
-    {
-      "id": "K3njgUrOfFQ",
-      "title": "Waveshare 1.47in Dev Boards #esp32 #waveshare",
-      "published": "2026-11-17T23:00:16+00:00"
-    },
-    {
-      "id": "E5HjAUjTZdE",
-      "title": "Dragon Detector Biscuit Node",
-      "published": "2026-11-17T16:32:21+00:00"
     }
   ]
 }
