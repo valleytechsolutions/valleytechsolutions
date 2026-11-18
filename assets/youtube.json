@@ -1,31 +1,31 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-17T20:53:29.225382+00:00",
+  "checked": "2026-11-18T07:26:28.547571+00:00",
   "entries": [
+    {
+      "id": "BQAPQO7f858",
+      "title": "Hak5 Pager LORA Wardriving & Decoding",
+      "published": "2026-11-18T04:47:33+00:00"
+    },
+    {
+      "id": "0lJQ95GJGk4",
+      "title": "I was wrong",
+      "published": "2026-11-17T23:25:31+00:00"
+    },
+    {
+      "id": "3uhb7d0CrH4",
+      "title": "Covert Instruments 44Delta Breakout Card Handles",
+      "published": "2026-11-17T23:00:38+00:00"
+    },
+    {
+      "id": "K3njgUrOfFQ",
+      "title": "Waveshare 1.47in Dev Boards #esp32 #waveshare",
+      "published": "2026-11-17T23:00:16+00:00"
+    },
     {
       "id": "E5HjAUjTZdE",
       "title": "Dragon Detector Biscuit Node",
       "published": "2026-11-17T16:32:21+00:00"
-    },
-    {
-      "id": "77yQ9qW8v-o",
-      "title": "M5stack Stackchan Wardriving Companion: Dash-Chan",
-      "published": "2026-11-17T15:45:29+00:00"
-    },
-    {
-      "id": "7UuxrZladfU",
-      "title": "JustCallMeKoKo's Dualband GNSS Module #gps #gnss #wardriving",
-      "published": "2026-11-17T11:00:14+00:00"
-    },
-    {
-      "id": "MOhjxCvoFa8",
-      "title": "Double Ended Covert instruments Picks with 44delta ambush handles",
-      "published": "2026-11-17T05:00:33+00:00"
-    },
-    {
-      "id": "ENUdos4C1ls",
-      "title": "6ghz Biscuit Pager Node #hak5 #esp32",
-      "published": "2026-11-17T00:10:15+00:00"
     }
   ]
 }
