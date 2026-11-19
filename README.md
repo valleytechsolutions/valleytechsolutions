@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=3dO45Jo8bb8">Poom Biscuit Node Wardriving #esp32 #wardriving</a> <sub>2026-11-19</sub></li>
+<li><a href="https://www.youtube.com/watch?v=PzwYZtg-qvQ">Poom Wardriving Node Lives! #poom #esp32 #wardriving</a> <sub>2026-11-19</sub></li>
+<li><a href="https://www.youtube.com/watch?v=99B5rEurYzA">Evil-M5 Firmware Stamp C5 Mod for Cardputer ADV</a> <sub>2026-11-19</sub></li>
+<li><a href="https://www.youtube.com/watch?v=12c560-ZT-c">POOM WARDRIVING NODE #ESP32 #POOM</a> <sub>2026-11-19</sub></li>
 <li><a href="https://www.youtube.com/watch?v=kmeS5dz0lyY">R5 RFID Ring #rfid #nfc</a> <sub>2026-11-19</sub></li>
-<li><a href="https://www.youtube.com/watch?v=a-N7bcXUa34">M5stack Stopwatch Biscuit Node</a> <sub>2026-11-18</sub></li>
-<li><a href="https://www.youtube.com/watch?v=FOg5ZdgfF5s">Orange Pi Zero 4 #orangepi #allwinner #raspberrypi</a> <sub>2026-11-18</sub></li>
-<li><a href="https://www.youtube.com/watch?v=FUE9cdegpuI">Waveshare 1.85 Round ESP32-S3 Stopwatch</a> <sub>2026-11-18</sub></li>
-<li><a href="https://www.youtube.com/watch?v=VTb2ea67brw">Dragon Detector Wardriving Node Mode #esp32 #wardriving</a> <sub>2026-11-18</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

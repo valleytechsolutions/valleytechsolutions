@@ -1,31 +1,31 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-19T07:22:33.057320+00:00",
+  "checked": "2026-11-19T20:34:30.546689+00:00",
   "entries": [
+    {
+      "id": "3dO45Jo8bb8",
+      "title": "Poom Biscuit Node Wardriving #esp32 #wardriving",
+      "published": "2026-11-19T20:00:16+00:00"
+    },
+    {
+      "id": "PzwYZtg-qvQ",
+      "title": "Poom Wardriving Node Lives! #poom #esp32 #wardriving",
+      "published": "2026-11-19T17:00:13+00:00"
+    },
+    {
+      "id": "99B5rEurYzA",
+      "title": "Evil-M5 Firmware Stamp C5 Mod for Cardputer ADV",
+      "published": "2026-11-19T16:15:29+00:00"
+    },
+    {
+      "id": "12c560-ZT-c",
+      "title": "POOM WARDRIVING NODE #ESP32 #POOM",
+      "published": "2026-11-19T11:00:27+00:00"
+    },
     {
       "id": "kmeS5dz0lyY",
       "title": "R5 RFID Ring #rfid #nfc",
       "published": "2026-11-19T05:00:07+00:00"
-    },
-    {
-      "id": "a-N7bcXUa34",
-      "title": "M5stack Stopwatch Biscuit Node",
-      "published": "2026-11-18T22:00:47+00:00"
-    },
-    {
-      "id": "FOg5ZdgfF5s",
-      "title": "Orange Pi Zero 4 #orangepi #allwinner #raspberrypi",
-      "published": "2026-11-18T17:00:02+00:00"
-    },
-    {
-      "id": "FUE9cdegpuI",
-      "title": "Waveshare 1.85 Round ESP32-S3 Stopwatch",
-      "published": "2026-11-18T16:00:16+00:00"
-    },
-    {
-      "id": "VTb2ea67brw",
-      "title": "Dragon Detector Wardriving Node Mode #esp32 #wardriving",
-      "published": "2026-11-18T11:00:25+00:00"
     }
   ]
 }
