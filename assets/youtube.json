@@ -1,7 +1,17 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-18T20:29:20.222561+00:00",
+  "checked": "2026-11-19T07:22:33.057320+00:00",
   "entries": [
+    {
+      "id": "kmeS5dz0lyY",
+      "title": "R5 RFID Ring #rfid #nfc",
+      "published": "2026-11-19T05:00:07+00:00"
+    },
+    {
+      "id": "a-N7bcXUa34",
+      "title": "M5stack Stopwatch Biscuit Node",
+      "published": "2026-11-18T22:00:47+00:00"
+    },
     {
       "id": "FOg5ZdgfF5s",
       "title": "Orange Pi Zero 4 #orangepi #allwinner #raspberrypi",
@@ -16,16 +26,6 @@
       "id": "VTb2ea67brw",
       "title": "Dragon Detector Wardriving Node Mode #esp32 #wardriving",
       "published": "2026-11-18T11:00:25+00:00"
-    },
-    {
-      "id": "BQAPQO7f858",
-      "title": "Hak5 Pager LORA Wardriving & Decoding",
-      "published": "2026-11-18T04:47:33+00:00"
-    },
-    {
-      "id": "0lJQ95GJGk4",
-      "title": "I was wrong",
-      "published": "2026-11-17T23:25:31+00:00"
     }
   ]
 }
