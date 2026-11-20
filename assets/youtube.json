@@ -1,7 +1,17 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-19T20:34:30.546689+00:00",
+  "checked": "2026-11-20T07:12:32.023877+00:00",
   "entries": [
+    {
+      "id": "d_kZfl85zr8",
+      "title": "What do you think?",
+      "published": "2026-11-20T05:00:13+00:00"
+    },
+    {
+      "id": "leURxVdq13E",
+      "title": "Pico 2 W & Esp32-s3 #raspberrypi #esp32 #makerpropaganda",
+      "published": "2026-11-19T23:20:31+00:00"
+    },
     {
       "id": "3dO45Jo8bb8",
       "title": "Poom Biscuit Node Wardriving #esp32 #wardriving",
@@ -16,16 +26,6 @@
       "id": "99B5rEurYzA",
       "title": "Evil-M5 Firmware Stamp C5 Mod for Cardputer ADV",
       "published": "2026-11-19T16:15:29+00:00"
-    },
-    {
-      "id": "12c560-ZT-c",
-      "title": "POOM WARDRIVING NODE #ESP32 #POOM",
-      "published": "2026-11-19T11:00:27+00:00"
-    },
-    {
-      "id": "kmeS5dz0lyY",
-      "title": "R5 RFID Ring #rfid #nfc",
-      "published": "2026-11-19T05:00:07+00:00"
     }
   ]
 }

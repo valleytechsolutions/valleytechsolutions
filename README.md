@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=d_kZfl85zr8">What do you think?</a> <sub>2026-11-20</sub></li>
+<li><a href="https://www.youtube.com/watch?v=leURxVdq13E">Pico 2 W &amp; Esp32-s3 #raspberrypi #esp32 #makerpropaganda</a> <sub>2026-11-19</sub></li>
 <li><a href="https://www.youtube.com/watch?v=3dO45Jo8bb8">Poom Biscuit Node Wardriving #esp32 #wardriving</a> <sub>2026-11-19</sub></li>
 <li><a href="https://www.youtube.com/watch?v=PzwYZtg-qvQ">Poom Wardriving Node Lives! #poom #esp32 #wardriving</a> <sub>2026-11-19</sub></li>
 <li><a href="https://www.youtube.com/watch?v=99B5rEurYzA">Evil-M5 Firmware Stamp C5 Mod for Cardputer ADV</a> <sub>2026-11-19</sub></li>
-<li><a href="https://www.youtube.com/watch?v=12c560-ZT-c">POOM WARDRIVING NODE #ESP32 #POOM</a> <sub>2026-11-19</sub></li>
-<li><a href="https://www.youtube.com/watch?v=kmeS5dz0lyY">R5 RFID Ring #rfid #nfc</a> <sub>2026-11-19</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
