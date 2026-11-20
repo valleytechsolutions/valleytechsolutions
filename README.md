@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=wm16ycNfD0E">WAVESHARE&#x27;S NEW LOADED ESP32-C5 DEV BOARDS #WAVESHARE #ESP32</a> <sub>2026-11-20</sub></li>
+<li><a href="https://www.youtube.com/watch?v=Gy-MxyNcXTE">Orange Pi Zero 4 is Here &amp; Unexpected</a> <sub>2026-11-20</sub></li>
+<li><a href="https://www.youtube.com/watch?v=SV3L7h4IRX4">New Halehound Updates #esp32 #halehound</a> <sub>2026-11-20</sub></li>
+<li><a href="https://www.youtube.com/watch?v=ez_pq4rAWs0">Radxa Cubie a7z drop in replacement yet?</a> <sub>2026-11-20</sub></li>
 <li><a href="https://www.youtube.com/watch?v=d_kZfl85zr8">What do you think?</a> <sub>2026-11-20</sub></li>
-<li><a href="https://www.youtube.com/watch?v=leURxVdq13E">Pico 2 W &amp; Esp32-s3 #raspberrypi #esp32 #makerpropaganda</a> <sub>2026-11-19</sub></li>
-<li><a href="https://www.youtube.com/watch?v=3dO45Jo8bb8">Poom Biscuit Node Wardriving #esp32 #wardriving</a> <sub>2026-11-19</sub></li>
-<li><a href="https://www.youtube.com/watch?v=PzwYZtg-qvQ">Poom Wardriving Node Lives! #poom #esp32 #wardriving</a> <sub>2026-11-19</sub></li>
-<li><a href="https://www.youtube.com/watch?v=99B5rEurYzA">Evil-M5 Firmware Stamp C5 Mod for Cardputer ADV</a> <sub>2026-11-19</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
