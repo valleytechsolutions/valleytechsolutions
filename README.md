@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=xh4azbyguc4">New M5stack Drop?</a> <sub>2026-11-21</sub></li>
+<li><a href="https://www.youtube.com/watch?v=H5M_clWV_PE">M5stack NFC/CC1101 Cap #m5stack</a> <sub>2026-11-21</sub></li>
+<li><a href="https://www.youtube.com/watch?v=lv_WCEMASzI">Cardputer Zero Has Arrived!</a> <sub>2026-11-20</sub></li>
 <li><a href="https://www.youtube.com/watch?v=wm16ycNfD0E">WAVESHARE&#x27;S NEW LOADED ESP32-C5 DEV BOARDS #WAVESHARE #ESP32</a> <sub>2026-11-20</sub></li>
 <li><a href="https://www.youtube.com/watch?v=Gy-MxyNcXTE">Orange Pi Zero 4 is Here &amp; Unexpected</a> <sub>2026-11-20</sub></li>
-<li><a href="https://www.youtube.com/watch?v=SV3L7h4IRX4">New Halehound Updates #esp32 #halehound</a> <sub>2026-11-20</sub></li>
-<li><a href="https://www.youtube.com/watch?v=ez_pq4rAWs0">Radxa Cubie a7z drop in replacement yet?</a> <sub>2026-11-20</sub></li>
-<li><a href="https://www.youtube.com/watch?v=d_kZfl85zr8">What do you think?</a> <sub>2026-11-20</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
