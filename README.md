@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=NXJ8Pud1X5E">cardputer Zero First Impression On Final Design #m5stack</a> <sub>2026-11-21</sub></li>
+<li><a href="https://www.youtube.com/watch?v=hpMAfd9yBOA">Esp32-P4 Knob By Waveshare #esp32</a> <sub>2026-11-21</sub></li>
 <li><a href="https://www.youtube.com/watch?v=xh4azbyguc4">New M5stack Drop?</a> <sub>2026-11-21</sub></li>
 <li><a href="https://www.youtube.com/watch?v=H5M_clWV_PE">M5stack NFC/CC1101 Cap #m5stack</a> <sub>2026-11-21</sub></li>
 <li><a href="https://www.youtube.com/watch?v=lv_WCEMASzI">Cardputer Zero Has Arrived!</a> <sub>2026-11-20</sub></li>
-<li><a href="https://www.youtube.com/watch?v=wm16ycNfD0E">WAVESHARE&#x27;S NEW LOADED ESP32-C5 DEV BOARDS #WAVESHARE #ESP32</a> <sub>2026-11-20</sub></li>
-<li><a href="https://www.youtube.com/watch?v=Gy-MxyNcXTE">Orange Pi Zero 4 is Here &amp; Unexpected</a> <sub>2026-11-20</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
