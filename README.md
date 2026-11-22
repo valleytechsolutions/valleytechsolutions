@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=ABzHibu7iZY">TRI-BAND WARDRIVING CARDPUTER ZERO #M5STACK #RASPBERRYPI</a> <sub>2026-11-22</sub></li>
+<li><a href="https://www.youtube.com/watch?v=YNL2iTRcSGg">STACK CHAN DASH CHAN WARDRIVING PET #ESP32 #M5STACK #WARDRIVING</a> <sub>2026-11-22</sub></li>
+<li><a href="https://www.youtube.com/watch?v=PQy4WZLhcDg">Cardputer Zero Lora Tunnel</a> <sub>2026-11-22</sub></li>
+<li><a href="https://www.youtube.com/watch?v=5TUiSWpLcZY">Getting better at making picks</a> <sub>2026-11-21</sub></li>
 <li><a href="https://www.youtube.com/watch?v=NXJ8Pud1X5E">cardputer Zero First Impression On Final Design #m5stack</a> <sub>2026-11-21</sub></li>
-<li><a href="https://www.youtube.com/watch?v=hpMAfd9yBOA">Esp32-P4 Knob By Waveshare #esp32</a> <sub>2026-11-21</sub></li>
-<li><a href="https://www.youtube.com/watch?v=xh4azbyguc4">New M5stack Drop?</a> <sub>2026-11-21</sub></li>
-<li><a href="https://www.youtube.com/watch?v=H5M_clWV_PE">M5stack NFC/CC1101 Cap #m5stack</a> <sub>2026-11-21</sub></li>
-<li><a href="https://www.youtube.com/watch?v=lv_WCEMASzI">Cardputer Zero Has Arrived!</a> <sub>2026-11-20</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
