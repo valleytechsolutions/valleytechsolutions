@@ -1,31 +1,31 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-22T06:44:38.574718+00:00",
+  "checked": "2026-11-22T19:37:16.370381+00:00",
   "entries": [
+    {
+      "id": "SWMgQw2ikgM",
+      "title": "LORA Tunnel Github Submission Video for Cardputer Zero #m5stack #cardputerzero",
+      "published": "2026-11-22T17:51:05+00:00"
+    },
+    {
+      "id": "SfAdMsljn2Q",
+      "title": "Quartermaster Video Evidence Submission #m5stack #cardputerzero",
+      "published": "2026-11-22T17:48:21+00:00"
+    },
+    {
+      "id": "abGAMb-8KSU",
+      "title": "Quartermaster Wardriving #m5stack #wardriving #raspberrypi",
+      "published": "2026-11-22T16:14:23+00:00"
+    },
+    {
+      "id": "Iknc6HpeOow",
+      "title": "Marauder V8 WDGWars Field Firmware #wardriving #esp32",
+      "published": "2026-11-22T11:00:25+00:00"
+    },
     {
       "id": "ABzHibu7iZY",
       "title": "TRI-BAND WARDRIVING CARDPUTER ZERO #M5STACK #RASPBERRYPI",
       "published": "2026-11-22T05:00:37+00:00"
-    },
-    {
-      "id": "YNL2iTRcSGg",
-      "title": "STACK CHAN DASH CHAN WARDRIVING PET #ESP32 #M5STACK #WARDRIVING",
-      "published": "2026-11-22T03:44:48+00:00"
-    },
-    {
-      "id": "PQy4WZLhcDg",
-      "title": "Cardputer Zero Lora Tunnel",
-      "published": "2026-11-22T00:00:31+00:00"
-    },
-    {
-      "id": "5TUiSWpLcZY",
-      "title": "Getting better at making picks",
-      "published": "2026-11-21T20:45:18+00:00"
-    },
-    {
-      "id": "NXJ8Pud1X5E",
-      "title": "cardputer Zero First Impression On Final Design #m5stack",
-      "published": "2026-11-21T16:27:51+00:00"
     }
   ]
 }

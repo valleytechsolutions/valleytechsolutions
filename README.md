@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=SWMgQw2ikgM">LORA Tunnel Github Submission Video for Cardputer Zero #m5stack #cardputerzero</a> <sub>2026-11-22</sub></li>
+<li><a href="https://www.youtube.com/watch?v=SfAdMsljn2Q">Quartermaster Video Evidence Submission #m5stack #cardputerzero</a> <sub>2026-11-22</sub></li>
+<li><a href="https://www.youtube.com/watch?v=abGAMb-8KSU">Quartermaster Wardriving #m5stack #wardriving #raspberrypi</a> <sub>2026-11-22</sub></li>
+<li><a href="https://www.youtube.com/watch?v=Iknc6HpeOow">Marauder V8 WDGWars Field Firmware #wardriving #esp32</a> <sub>2026-11-22</sub></li>
 <li><a href="https://www.youtube.com/watch?v=ABzHibu7iZY">TRI-BAND WARDRIVING CARDPUTER ZERO #M5STACK #RASPBERRYPI</a> <sub>2026-11-22</sub></li>
-<li><a href="https://www.youtube.com/watch?v=YNL2iTRcSGg">STACK CHAN DASH CHAN WARDRIVING PET #ESP32 #M5STACK #WARDRIVING</a> <sub>2026-11-22</sub></li>
-<li><a href="https://www.youtube.com/watch?v=PQy4WZLhcDg">Cardputer Zero Lora Tunnel</a> <sub>2026-11-22</sub></li>
-<li><a href="https://www.youtube.com/watch?v=5TUiSWpLcZY">Getting better at making picks</a> <sub>2026-11-21</sub></li>
-<li><a href="https://www.youtube.com/watch?v=NXJ8Pud1X5E">cardputer Zero First Impression On Final Design #m5stack</a> <sub>2026-11-21</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
