@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=51FvSbeIXq4">Ultimate Cardputer Zero Wardriver #m5stack #cardputer #raspberrypi #wardriving</a> <sub>2026-11-23</sub></li>
+<li><a href="https://www.youtube.com/watch?v=zAjfRRyBN0I">Waveshare ESP32-S31 Zero Mini #esp32 #waveshare</a> <sub>2026-11-22</sub></li>
 <li><a href="https://www.youtube.com/watch?v=SWMgQw2ikgM">LORA Tunnel Github Submission Video for Cardputer Zero #m5stack #cardputerzero</a> <sub>2026-11-22</sub></li>
 <li><a href="https://www.youtube.com/watch?v=SfAdMsljn2Q">Quartermaster Video Evidence Submission #m5stack #cardputerzero</a> <sub>2026-11-22</sub></li>
 <li><a href="https://www.youtube.com/watch?v=abGAMb-8KSU">Quartermaster Wardriving #m5stack #wardriving #raspberrypi</a> <sub>2026-11-22</sub></li>
-<li><a href="https://www.youtube.com/watch?v=Iknc6HpeOow">Marauder V8 WDGWars Field Firmware #wardriving #esp32</a> <sub>2026-11-22</sub></li>
-<li><a href="https://www.youtube.com/watch?v=ABzHibu7iZY">TRI-BAND WARDRIVING CARDPUTER ZERO #M5STACK #RASPBERRYPI</a> <sub>2026-11-22</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

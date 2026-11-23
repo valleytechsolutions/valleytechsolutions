@@ -1,7 +1,17 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-22T19:37:16.370381+00:00",
+  "checked": "2026-11-23T07:35:18.514826+00:00",
   "entries": [
+    {
+      "id": "51FvSbeIXq4",
+      "title": "Ultimate Cardputer Zero Wardriver #m5stack #cardputer #raspberrypi #wardriving",
+      "published": "2026-11-23T04:46:11+00:00"
+    },
+    {
+      "id": "zAjfRRyBN0I",
+      "title": "Waveshare ESP32-S31 Zero Mini #esp32 #waveshare",
+      "published": "2026-11-22T20:00:07+00:00"
+    },
     {
       "id": "SWMgQw2ikgM",
       "title": "LORA Tunnel Github Submission Video for Cardputer Zero #m5stack #cardputerzero",
@@ -16,16 +26,6 @@
       "id": "abGAMb-8KSU",
       "title": "Quartermaster Wardriving #m5stack #wardriving #raspberrypi",
       "published": "2026-11-22T16:14:23+00:00"
-    },
-    {
-      "id": "Iknc6HpeOow",
-      "title": "Marauder V8 WDGWars Field Firmware #wardriving #esp32",
-      "published": "2026-11-22T11:00:25+00:00"
-    },
-    {
-      "id": "ABzHibu7iZY",
-      "title": "TRI-BAND WARDRIVING CARDPUTER ZERO #M5STACK #RASPBERRYPI",
-      "published": "2026-11-22T05:00:37+00:00"
     }
   ]
 }
