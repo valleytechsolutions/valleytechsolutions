@@ -1,31 +1,31 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-24T09:51:59.808827+00:00",
+  "checked": "2026-11-24T22:24:40.436196+00:00",
   "entries": [
+    {
+      "id": "3jElx9OzpfU",
+      "title": "xiao 1.47 esp32-s3 Plus #esp32 #seeed",
+      "published": "2026-11-24T20:17:39+00:00"
+    },
+    {
+      "id": "q7il5Rawek8",
+      "title": "Wire ST25R To Halehound Fire Weasel #halehound #diy",
+      "published": "2026-11-24T17:00:34+00:00"
+    },
+    {
+      "id": "za_dMfQ3fAE",
+      "title": "Orange Pi Zero 3 W PCIE #orangepi #raspberrypi",
+      "published": "2026-11-24T11:00:05+00:00"
+    },
+    {
+      "id": "Kz-kC3Jp6G0",
+      "title": "Waveshare 1.75in AMOLED Round Dev Board with GPS",
+      "published": "2026-11-24T05:00:25+00:00"
+    },
     {
       "id": "VeuJ8MbOxcw",
       "title": "WardriveMaxxing #m5stack #raspberrypi #esp32 #wardriving",
       "published": "2026-11-24T05:00:06+00:00"
-    },
-    {
-      "id": "oTjUV4KIdC8",
-      "title": "Wardrive Testing - Cerberus #wardriving #esp32 #raspberrypi #m5stack",
-      "published": "2026-11-24T02:00:26+00:00"
-    },
-    {
-      "id": "_6A7pg-Iig8",
-      "title": "St25r Mini B #nfc #rfid #halehound",
-      "published": "2026-11-23T23:00:13+00:00"
-    },
-    {
-      "id": "oYD1zCvMXNs",
-      "title": "fpv & scenery",
-      "published": "2026-11-23T21:28:51+00:00"
-    },
-    {
-      "id": "yHUDzW22AIg",
-      "title": "Waveshare P4 Knob #esp32 #waveshare",
-      "published": "2026-11-23T19:44:13+00:00"
     }
   ]
 }

@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=3jElx9OzpfU">xiao 1.47 esp32-s3 Plus #esp32 #seeed</a> <sub>2026-11-24</sub></li>
+<li><a href="https://www.youtube.com/watch?v=q7il5Rawek8">Wire ST25R To Halehound Fire Weasel #halehound #diy</a> <sub>2026-11-24</sub></li>
+<li><a href="https://www.youtube.com/watch?v=za_dMfQ3fAE">Orange Pi Zero 3 W PCIE #orangepi #raspberrypi</a> <sub>2026-11-24</sub></li>
+<li><a href="https://www.youtube.com/watch?v=Kz-kC3Jp6G0">Waveshare 1.75in AMOLED Round Dev Board with GPS</a> <sub>2026-11-24</sub></li>
 <li><a href="https://www.youtube.com/watch?v=VeuJ8MbOxcw">WardriveMaxxing #m5stack #raspberrypi #esp32 #wardriving</a> <sub>2026-11-24</sub></li>
-<li><a href="https://www.youtube.com/watch?v=oTjUV4KIdC8">Wardrive Testing - Cerberus #wardriving #esp32 #raspberrypi #m5stack</a> <sub>2026-11-24</sub></li>
-<li><a href="https://www.youtube.com/watch?v=_6A7pg-Iig8">St25r Mini B #nfc #rfid #halehound</a> <sub>2026-11-23</sub></li>
-<li><a href="https://www.youtube.com/watch?v=oYD1zCvMXNs">fpv &amp; scenery</a> <sub>2026-11-23</sub></li>
-<li><a href="https://www.youtube.com/watch?v=yHUDzW22AIg">Waveshare P4 Knob #esp32 #waveshare</a> <sub>2026-11-23</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
