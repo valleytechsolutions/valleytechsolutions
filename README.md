@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=VeuJ8MbOxcw">WardriveMaxxing #m5stack #raspberrypi #esp32 #wardriving</a> <sub>2026-11-24</sub></li>
+<li><a href="https://www.youtube.com/watch?v=oTjUV4KIdC8">Wardrive Testing - Cerberus #wardriving #esp32 #raspberrypi #m5stack</a> <sub>2026-11-24</sub></li>
 <li><a href="https://www.youtube.com/watch?v=_6A7pg-Iig8">St25r Mini B #nfc #rfid #halehound</a> <sub>2026-11-23</sub></li>
 <li><a href="https://www.youtube.com/watch?v=oYD1zCvMXNs">fpv &amp; scenery</a> <sub>2026-11-23</sub></li>
 <li><a href="https://www.youtube.com/watch?v=yHUDzW22AIg">Waveshare P4 Knob #esp32 #waveshare</a> <sub>2026-11-23</sub></li>
-<li><a href="https://www.youtube.com/watch?v=AzENInbCmWE">CARDPUTER ZERO WARDRIVING WITH QUARTERMASTER</a> <sub>2026-11-23</sub></li>
-<li><a href="https://www.youtube.com/watch?v=me-J0zj1gAc">Cardputer BATTERY Backpack</a> <sub>2026-11-23</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
