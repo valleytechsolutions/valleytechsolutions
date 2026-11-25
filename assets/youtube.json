@@ -1,7 +1,17 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-24T22:24:40.436196+00:00",
+  "checked": "2026-11-25T08:30:43.642498+00:00",
   "entries": [
+    {
+      "id": "wy3ag7IgyVo",
+      "title": "Lilygo T-Mix RF #lilygo #cyd",
+      "published": "2026-11-25T05:33:01+00:00"
+    },
+    {
+      "id": "mMugejRIXpU",
+      "title": "Poom #esp32 #poom",
+      "published": "2026-11-25T00:00:47+00:00"
+    },
     {
       "id": "3jElx9OzpfU",
       "title": "xiao 1.47 esp32-s3 Plus #esp32 #seeed",
@@ -16,16 +26,6 @@
       "id": "za_dMfQ3fAE",
       "title": "Orange Pi Zero 3 W PCIE #orangepi #raspberrypi",
       "published": "2026-11-24T11:00:05+00:00"
-    },
-    {
-      "id": "Kz-kC3Jp6G0",
-      "title": "Waveshare 1.75in AMOLED Round Dev Board with GPS",
-      "published": "2026-11-24T05:00:25+00:00"
-    },
-    {
-      "id": "VeuJ8MbOxcw",
-      "title": "WardriveMaxxing #m5stack #raspberrypi #esp32 #wardriving",
-      "published": "2026-11-24T05:00:06+00:00"
     }
   ]
 }
