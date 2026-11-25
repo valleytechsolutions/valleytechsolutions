@@ -1,7 +1,22 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-25T08:30:43.642498+00:00",
+  "checked": "2026-11-25T21:40:32.997066+00:00",
   "entries": [
+    {
+      "id": "fUv5idwDsLo",
+      "title": "BadUSB In Dragon Detector",
+      "published": "2026-11-25T19:02:31+00:00"
+    },
+    {
+      "id": "Z-Wdr8uHnJo",
+      "title": "Wireless Wizard LORA Boards for ESP32 CYD",
+      "published": "2026-11-25T16:00:24+00:00"
+    },
+    {
+      "id": "DIsXzNYc8xc",
+      "title": "Waveshare ESP32-C5 Display Dev Board #waveshare #esp32",
+      "published": "2026-11-25T11:00:38+00:00"
+    },
     {
       "id": "wy3ag7IgyVo",
       "title": "Lilygo T-Mix RF #lilygo #cyd",
@@ -11,21 +26,6 @@
       "id": "mMugejRIXpU",
       "title": "Poom #esp32 #poom",
       "published": "2026-11-25T00:00:47+00:00"
-    },
-    {
-      "id": "3jElx9OzpfU",
-      "title": "xiao 1.47 esp32-s3 Plus #esp32 #seeed",
-      "published": "2026-11-24T20:17:39+00:00"
-    },
-    {
-      "id": "q7il5Rawek8",
-      "title": "Wire ST25R To Halehound Fire Weasel #halehound #diy",
-      "published": "2026-11-24T17:00:34+00:00"
-    },
-    {
-      "id": "za_dMfQ3fAE",
-      "title": "Orange Pi Zero 3 W PCIE #orangepi #raspberrypi",
-      "published": "2026-11-24T11:00:05+00:00"
     }
   ]
 }

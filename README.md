@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=fUv5idwDsLo">BadUSB In Dragon Detector</a> <sub>2026-11-25</sub></li>
+<li><a href="https://www.youtube.com/watch?v=Z-Wdr8uHnJo">Wireless Wizard LORA Boards for ESP32 CYD</a> <sub>2026-11-25</sub></li>
+<li><a href="https://www.youtube.com/watch?v=DIsXzNYc8xc">Waveshare ESP32-C5 Display Dev Board #waveshare #esp32</a> <sub>2026-11-25</sub></li>
 <li><a href="https://www.youtube.com/watch?v=wy3ag7IgyVo">Lilygo T-Mix RF #lilygo #cyd</a> <sub>2026-11-25</sub></li>
 <li><a href="https://www.youtube.com/watch?v=mMugejRIXpU">Poom #esp32 #poom</a> <sub>2026-11-25</sub></li>
-<li><a href="https://www.youtube.com/watch?v=3jElx9OzpfU">xiao 1.47 esp32-s3 Plus #esp32 #seeed</a> <sub>2026-11-24</sub></li>
-<li><a href="https://www.youtube.com/watch?v=q7il5Rawek8">Wire ST25R To Halehound Fire Weasel #halehound #diy</a> <sub>2026-11-24</sub></li>
-<li><a href="https://www.youtube.com/watch?v=za_dMfQ3fAE">Orange Pi Zero 3 W PCIE #orangepi #raspberrypi</a> <sub>2026-11-24</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
