@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=BhPZQrzfYU8">QUARTERMASTER WARDRIVING DIY #RASPBERRYPI #WARDRIVING</a> <sub>2026-11-26</sub></li>
+<li><a href="https://www.youtube.com/watch?v=1JURYo76ytE">hak5 Pager 2.1 Update</a> <sub>2026-11-26</sub></li>
+<li><a href="https://www.youtube.com/watch?v=PBjbXc84x9s">Cardputer Zero Wardriving With Quartermaster #wardriving #m5stack</a> <sub>2026-11-25</sub></li>
 <li><a href="https://www.youtube.com/watch?v=fUv5idwDsLo">BadUSB In Dragon Detector</a> <sub>2026-11-25</sub></li>
 <li><a href="https://www.youtube.com/watch?v=Z-Wdr8uHnJo">Wireless Wizard LORA Boards for ESP32 CYD</a> <sub>2026-11-25</sub></li>
-<li><a href="https://www.youtube.com/watch?v=DIsXzNYc8xc">Waveshare ESP32-C5 Display Dev Board #waveshare #esp32</a> <sub>2026-11-25</sub></li>
-<li><a href="https://www.youtube.com/watch?v=wy3ag7IgyVo">Lilygo T-Mix RF #lilygo #cyd</a> <sub>2026-11-25</sub></li>
-<li><a href="https://www.youtube.com/watch?v=mMugejRIXpU">Poom #esp32 #poom</a> <sub>2026-11-25</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

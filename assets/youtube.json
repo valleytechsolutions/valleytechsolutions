@@ -1,7 +1,22 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-25T21:40:32.997066+00:00",
+  "checked": "2026-11-26T08:14:25.274433+00:00",
   "entries": [
+    {
+      "id": "BhPZQrzfYU8",
+      "title": "QUARTERMASTER WARDRIVING DIY #RASPBERRYPI #WARDRIVING",
+      "published": "2026-11-26T07:01:24+00:00"
+    },
+    {
+      "id": "1JURYo76ytE",
+      "title": "hak5 Pager 2.1 Update",
+      "published": "2026-11-26T00:22:08+00:00"
+    },
+    {
+      "id": "PBjbXc84x9s",
+      "title": "Cardputer Zero Wardriving With Quartermaster #wardriving #m5stack",
+      "published": "2026-11-25T22:11:09+00:00"
+    },
     {
       "id": "fUv5idwDsLo",
       "title": "BadUSB In Dragon Detector",
@@ -11,21 +26,6 @@
       "id": "Z-Wdr8uHnJo",
       "title": "Wireless Wizard LORA Boards for ESP32 CYD",
       "published": "2026-11-25T16:00:24+00:00"
-    },
-    {
-      "id": "DIsXzNYc8xc",
-      "title": "Waveshare ESP32-C5 Display Dev Board #waveshare #esp32",
-      "published": "2026-11-25T11:00:38+00:00"
-    },
-    {
-      "id": "wy3ag7IgyVo",
-      "title": "Lilygo T-Mix RF #lilygo #cyd",
-      "published": "2026-11-25T05:33:01+00:00"
-    },
-    {
-      "id": "mMugejRIXpU",
-      "title": "Poom #esp32 #poom",
-      "published": "2026-11-25T00:00:47+00:00"
     }
   ]
 }
