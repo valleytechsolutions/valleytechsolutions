@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
-<li><a href="https://www.youtube.com/watch?v=BhPZQrzfYU8">QUARTERMASTER WARDRIVING DIY #RASPBERRYPI #WARDRIVING</a> <sub>2026-11-26</sub></li>
-<li><a href="https://www.youtube.com/watch?v=1JURYo76ytE">hak5 Pager 2.1 Update</a> <sub>2026-11-26</sub></li>
-<li><a href="https://www.youtube.com/watch?v=PBjbXc84x9s">Cardputer Zero Wardriving With Quartermaster #wardriving #m5stack</a> <sub>2026-11-25</sub></li>
-<li><a href="https://www.youtube.com/watch?v=fUv5idwDsLo">BadUSB In Dragon Detector</a> <sub>2026-11-25</sub></li>
-<li><a href="https://www.youtube.com/watch?v=Z-Wdr8uHnJo">Wireless Wizard LORA Boards for ESP32 CYD</a> <sub>2026-11-25</sub></li>
+<li><a href="https://www.youtube.com/watch?v=cABA77_kL9o">DIY Quartermaster Pi First Boot</a> <sub>2026-11-26</sub></li>
+<li><a href="https://www.youtube.com/watch?v=ECTmJFmpDAE">Waveshare Esp32s3 2.06 DD Beta</a> <sub>2026-11-26</sub></li>
+<li><a href="https://www.youtube.com/watch?v=pX7CB8qywOc">Pocket Chip Now With Armbian Support #pocketchip #cyberdeck</a> <sub>2026-11-26</sub></li>
+<li><a href="https://www.youtube.com/watch?v=7EIh6OPU_lM">WDGWARS Field Firmware JCMK Marauder V8</a> <sub>2026-11-26</sub></li>
+<li><a href="https://www.youtube.com/watch?v=gUPmoRjzTSY">Esp32 Cheap Tellow Display Wireless Wizard LORA Messaging #esp32 #cyd</a> <sub>2026-11-26</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 
