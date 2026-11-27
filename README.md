@@ -113,11 +113,11 @@ Build logs, board experiments and the things I discover along the way. New uploa
 
 <!-- YOUTUBE:START -->
 <ul>
+<li><a href="https://www.youtube.com/watch?v=WC4HIoJWGpU">Halehound 4in Impression #cyd #halehound</a> <sub>2026-11-27</sub></li>
 <li><a href="https://www.youtube.com/watch?v=cABA77_kL9o">DIY Quartermaster Pi First Boot</a> <sub>2026-11-26</sub></li>
 <li><a href="https://www.youtube.com/watch?v=ECTmJFmpDAE">Waveshare Esp32s3 2.06 DD Beta</a> <sub>2026-11-26</sub></li>
 <li><a href="https://www.youtube.com/watch?v=pX7CB8qywOc">Pocket Chip Now With Armbian Support #pocketchip #cyberdeck</a> <sub>2026-11-26</sub></li>
 <li><a href="https://www.youtube.com/watch?v=7EIh6OPU_lM">WDGWARS Field Firmware JCMK Marauder V8</a> <sub>2026-11-26</sub></li>
-<li><a href="https://www.youtube.com/watch?v=gUPmoRjzTSY">Esp32 Cheap Tellow Display Wireless Wizard LORA Messaging #esp32 #cyd</a> <sub>2026-11-26</sub></li>
 </ul>
 <!-- YOUTUBE:END -->
 

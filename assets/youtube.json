@@ -1,7 +1,12 @@
 {
   "channel": "UCTEwUEqrf_OQ0lV4rbO_Beg",
-  "checked": "2026-11-26T21:30:18.482807+00:00",
+  "checked": "2026-11-27T08:28:25.374519+00:00",
   "entries": [
+    {
+      "id": "WC4HIoJWGpU",
+      "title": "Halehound 4in Impression #cyd #halehound",
+      "published": "2026-11-27T06:27:12+00:00"
+    },
     {
       "id": "cABA77_kL9o",
       "title": "DIY Quartermaster Pi First Boot",
@@ -21,11 +26,6 @@
       "id": "7EIh6OPU_lM",
       "title": "WDGWARS Field Firmware JCMK Marauder V8",
       "published": "2026-11-26T16:00:00+00:00"
-    },
-    {
-      "id": "gUPmoRjzTSY",
-      "title": "Esp32 Cheap Tellow Display Wireless Wizard LORA Messaging #esp32 #cyd",
-      "published": "2026-11-26T11:00:08+00:00"
     }
   ]
 }
